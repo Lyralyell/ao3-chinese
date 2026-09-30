@@ -1,6 +1,6 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：Lyralyell
-更新时间：2026-09-30
+更新时间：2026-10-01
 
 通用词条
 
@@ -10,6 +10,7 @@ Straw Hat Pirates：草帽海贼团
 Strawhat Pirates：草帽海贼团
 Mugiwara：草帽
 Monkey D Luffy=蒙奇·D·路飞
+Lu：路
 Strawhat brat：草帽小子
 Straw Hat brat：草帽小子
 Roronoa Zoro=罗罗诺亚·索隆
@@ -44,8 +45,8 @@ Marco：马尔科
 Fushichou：不死鸟
 Phoenix：不死鸟
 Portgas D Ace=波特卡斯·D·艾斯
-Spider Pirates：黑桃海贼团
-Duce
+Spader Pirates：黑桃海贼团
+Deuce：丢斯
 FireFist：火拳
 Fire Fist：火拳
 Jozu：乔兹
@@ -63,6 +64,7 @@ Speed Jiru=斯比多·基尔
 Fossa：佛萨
 Izou：以藏
 Whitey Bay：怀迪贝
+Little Oars：小奥兹
 
 //红发海贼团
 Red Force：雷德弗斯号
@@ -105,7 +107,7 @@ Laffitte：拉斐特
 Catarina Devon=卡特琳·蝶美
 Sanjuan Wolf=圣胡安·恶狼
 Vasco Shot=巴斯克·乔特
-Doc Q：毒Q
+Doc Q：毒医Q
 
 //罗杰海贼团
 Oro Jackson=奥罗·杰克逊号
@@ -156,6 +158,8 @@ Hattori：哈多利
 Kaku：卡库
 Kalifa：卡莉法
 Spandam：斯潘达姆
+Imu：伊姆
+Five Elders：五老星
 
 //七武海
 Oka Shichibukai=王下 七武海
@@ -184,6 +188,7 @@ Kawamatsu：河松
 Inuarashi：犬岚
 Nekomamushi：猫蝮蛇
 Yamato：大和
+Tama：小玉
 Kurozumi Orochi=黑炭 大蛇
 
 //霸气
@@ -223,7 +228,6 @@ pirate：海贼
 Pirates King：海贼王
 Yonko：四皇
 Four Emperors：四皇
-FIVE ELDERS：五老星
 New World：新世界
 Kuja Pirates：九蛇海贼团
 buster call：屠魔令
