@@ -1,0 +1,255 @@
+版本号：1.0.0
+维护者：Lyralyell
+更新时间：2026-09-30
+
+通用词条
+
+//草帽海贼团
+Mugiwara Kaizokudan：草帽海贼团
+Straw Hat Pirates：草帽海贼团
+Strawhat Pirates：草帽海贼团
+Mugiwara：草帽
+Monkey D Luffy=蒙奇·D·路飞
+Strawhat brat：草帽小子
+Straw Hat brat：草帽小子
+Roronoa Zoro=罗罗诺亚·索隆
+Nami：娜美
+Vinsmoke Sanji=文斯莫克·山治
+Usopp=乌索普
+Going Merry=前进·梅利号
+Tony Tony Chopper=托尼·托尼·乔巴
+Nico Robin=妮可·罗宾
+Franky：弗兰奇
+Thousand Sunny：千里阳光号
+Brook：布鲁克
+Jinbei：甚平
+
+//心脏海贼团
+Heart Pirates：心脏海贼团
+Trafalgar D Water Law=特拉法尔·D·瓦铁尔·罗
+Bepo：贝波
+Shachi：夏奇
+Penguin：佩金
+
+//基德海贼团（名字中含常用词，因此不做词条）
+Eustass：尤斯塔斯
+
+//白胡子海贼团
+Whitebeard Pirates：白胡子海贼团
+Moby Dick：莫比迪克号
+Edward Newgate=爱德华·纽盖特
+Whitebeard：白胡子
+Shirohige：白胡子
+Marco：马尔科
+Fushichou：不死鸟
+Phoenix：不死鸟
+Portgas D Ace=波特卡斯·D·艾斯
+Spider Pirates：黑桃海贼团
+Duce
+FireFist：火拳
+Fire Fist：火拳
+Jozu：乔兹
+Thatch：萨奇
+Vista：比斯塔
+Blamenco：布拉曼克
+Rakuyo：拉克约
+Namur：那谬尔
+Blenheim：布伦海姆
+Curiel：库利艾尔
+Kingdew：金古多
+Haruta：哈尔塔
+Atmos：阿特摩斯
+Speed Jiru=斯比多·基尔
+Fossa：佛萨
+Izou：以藏
+Whitey Bay：怀迪贝
+
+//红发海贼团
+Red Force：雷德弗斯号
+Akagami no Shanks：红发香克斯
+Red-Haired Shanks=红发 香克斯
+Benn Beckman=本·贝克曼
+Yasopp：耶稣布
+Lucky Roux=拉基·路
+Hongo：本乡
+
+//百兽海贼团（名字中含常用词，因此不做词条）
+Kaido：凯多
+
+//BIG MOM海贼团
+Charlotte Linlin=夏洛特·玲玲
+Perospero：佩罗斯佩罗
+Katakuri：卡塔库栗
+Daifuku：大福
+Oven：欧文
+Cracker：克力架
+Amande：阿曼德
+Brulee：布蕾
+Smoothie：斯慕吉
+Chiffon：戚风
+Lola：罗拉
+Pudding：布琳
+Flampe：芙兰佩
+
+//黑胡子海贼团
+Blackbeard Pirates：黑胡子海贼团
+Kurohige：黑胡子
+Marshall D Teach=马歇尔·D·蒂奇
+Jesus Burgess=吉扎斯·巴杰斯
+Shiryu：希留
+Shiliew：希留
+Van Auger=范·奥卡
+Abaro Pisaro=阿瓦罗·匹萨罗
+Rafitto：拉斐特
+Laffitte：拉斐特
+Catarina Devon=卡特琳·蝶美
+Sanjuan Wolf=圣胡安·恶狼
+Vasco Shot=巴斯克·乔特
+Doc Q：毒Q
+
+//罗杰海贼团
+Oro Jackson=奥罗·杰克逊号
+Gol D Roger=哥尔·D·罗杰
+Portgas D Rouge=波特卡斯·D·露玖
+Gold Roger：黄金罗杰
+Silvers Rayleigh=西尔巴兹·雷利
+Scopper Gaban=司克帕·贾巴
+Crocus：克罗卡斯
+Douglas Bullet=道格拉斯·巴雷特
+
+//革命军
+Revolutionary Army：革命军
+Monkey D Dragon=蒙奇·D·龙
+Emporio Ivankov=安普里奥·伊万科夫
+Sabo：萨博
+Koala：克尔拉
+Inazuma：闪电
+Belo Betty=贝洛·贝蒂
+Morley：莫里
+Lindbergh：林德伯格
+Karasu：乌鸦
+
+//海军
+World Government：世界政府
+Marine：海军
+Sengoku：战国
+Sengoku The Buddha：佛之战国
+Sakazuki：萨卡斯基
+Akainu：赤犬
+Borsalino：波鲁萨利诺
+Kizaru：黄猿
+Kuzan：库赞
+Aokiji：青雉
+Issho：一笑
+Aramaki：荒牧
+Monkey D Garp=蒙奇·D·卡普
+Tsuru：鹤
+Onigumo：鬼蜘蛛
+Momonga：鼯鼠
+Smoker：斯摩格
+Tashigi：达斯琪
+Coby：克比
+Helmeppo：贝鲁梅伯
+Cipher Pol：CP
+Rob Lucci=罗布·路奇
+Hattori：哈多利
+Kaku：卡库
+Kalifa：卡莉法
+Spandam：斯潘达姆
+
+//七武海
+Oka Shichibukai=王下 七武海
+Sir Crocodile：沙·克洛克达尔
+Buggy：巴基
+Donquixote Doflamingo=唐吉诃德·多弗朗明哥
+Boa Hancock=波雅·汉库克
+Dracule Mihawk=乔拉可尔·米霍克
+Bartholemew Kuma=巴索罗米·熊
+Edward Weevil=爱德华·威布尔
+Gecko Moria月光·莫利亚
+
+//和之国
+Kozuki Oden=光月 御田
+Kozuki Toki=光月 时
+Kozuki Momonosuke=光月 桃之助
+Kozuki Hiyori=光月 日和
+Nine Red Scabbards：赤鞘九侠
+Kinemon：锦卫门
+Denjiro：传次郎
+Kikunojo：菊之丞
+Kurozumi Kanjuro=黑炭 勘十郎
+Raizo=雷藏
+Ashura Doji：阿修罗童子
+Kawamatsu：河松
+Inuarashi：犬岚
+Nekomamushi：猫蝮蛇
+Yamato：大和
+Kurozumi Orochi=黑炭 大蛇
+
+//霸气
+Haoushoku Haki=霸王色 霸气
+Kenbunshoku Haki=见闻色 霸气
+Busoshoku Haki=武装色 霸气
+
+//恶魔果实
+Devil Fruit：恶魔果实
+Devil Fruits：恶魔果实
+Gomo Gomo no Mi：橡胶果实
+Mera Mera no Mi：烧烧果实
+Hana Hna no Mi：花花果实
+Bara Bara no Mi：四分五裂果实
+
+//其他
+Curly·Dadan=卡利·达旦
+Dogra：多古拉
+Magra：马古拉
+Makino：玛琪诺
+Woop：乌普
+Kaya：可雅
+Shakky：夏琦
+Perona：佩罗娜
+Nefertari D Cobra=奈菲鲁塔丽·D·寇布拉
+Vivi：薇薇
+Shirahoshi：白星
+Uta：乌塔
+Bluegem：布鲁杰姆
+Pearlgamy：伯尔杰米
+Shiki：史基
+Rocks D Xebec=洛克斯·D·吉贝克
+Cavendish：卡文迪许
+Bartolomeo：巴托洛米奥
+Pirate：海贼
+pirate：海贼
+Pirates King：海贼王
+Yonko：四皇
+Four Emperors：四皇
+FIVE ELDERS：五老星
+New World：新世界
+Kuja Pirates：九蛇海贼团
+buster call：屠魔令
+Den Den Mushi：电话虫
+Den Den：电话虫
+Fishman：鱼人
+Punk Hazard：庞克哈萨德
+Dressrosa：德雷斯罗萨
+Alabasta：阿拉巴斯坦
+Grand Lind：伟大航路
+Red Line：红土大陆
+Reverse Mountain：颠倒山
+Belly：贝利
+Laugh Tale：拉夫德鲁
+Celestial Dragons：天龙人
+Impel down：因佩尔顿
+Seastone：海楼石
+Sky Piea：空岛
+
+禁翻词条
+
+ONE PIECE
+One Piece
+one piece
+ASL
+asl
+BIG MOM
+big mom
+Big Mom
