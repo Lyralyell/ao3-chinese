@@ -76,7 +76,7 @@ Atmos：阿特摩斯
 Speed Jiru=斯比多·基尔
 Fossa：佛萨
 Izou：以藏
-Iao：以藏
+Izo：以藏
 Whitey Bay：怀迪贝
 Little Oars：小奥兹
 
@@ -220,6 +220,7 @@ Armament Haki：武装色霸气
 //恶魔果实
 Devil Fruit：恶魔果实
 Devil Fruits：恶魔果实
+Logia：自然系
 Gomo Gomo no Mi：橡胶果实
 Mera Mera no Mi：烧烧果实
 Hana Hna no Mi：花花果实
@@ -281,6 +282,8 @@ Captain：船长
 -san：桑
 vivre card：生命卡
 Saboady：香波地群岛
+Water 7：七水之都
+Jaya：加雅岛
 
 禁翻词条
 
