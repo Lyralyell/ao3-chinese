@@ -115,13 +115,13 @@ Doc Q：毒医Q
 
 //罗杰海贼团
 Oro Jackson=奥罗·杰克逊号
+Roger Pirates：罗杰海贼团
 Gol D Roger=哥尔·D·罗杰
 Portgas D Rouge=波特卡斯·D·露玖
 Gold Roger：黄金罗杰
 Silvers Rayleigh=西尔巴兹·雷利
 Scopper Gaban=司克帕·贾巴
 Crocus：克罗卡斯
-Douglas Bullet=道格拉斯·巴雷特
 
 //革命军
 Revolutionary Army：革命军
@@ -210,7 +210,7 @@ Hana Hna no Mi：花花果实
 Bara Bara no Mi：四分五裂果实
 
 //其他
-Curly·Dadan=卡利·达旦
+Dadan：达旦
 Dogra：多古拉
 Magra：马古拉
 Makino：玛琪诺
@@ -222,7 +222,7 @@ Nefertari D Cobra=奈菲鲁塔丽·D·寇布拉
 Vivi：薇薇
 Shirahoshi：白星
 Uta：乌塔
-Bluegem：布鲁杰姆
+Bluejam：布鲁杰姆
 Pearlgamy：伯尔杰米
 Shiki：史基
 Cavendish：卡文迪许
