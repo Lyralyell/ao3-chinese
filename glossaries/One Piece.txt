@@ -31,7 +31,7 @@ Heart Pirates：心脏海贼团
 Polar Tang：极地潜水号
 Trafalgar D Law=特拉法尔加·D·罗
 Traffy：特拉男
-Donquixote Rosinante：唐吉诃德·罗西南迪
+Rosinante：罗西南迪
 Corazon：柯拉松
 Cora-san：柯拉桑
 Bepo：贝波
@@ -48,13 +48,18 @@ Moby Dick：莫比迪克号
 Edward Newgate=爱德华·纽盖特
 Whitebeard：白胡子
 Shirohige：白胡子
+Pops：老爹
+Oyaji：老爹
 Marco：马尔科
 Fushichou：不死鸟
 Phoenix：不死鸟
 Portgas D Ace=波特卡斯·D·艾斯
 Spade Pirates：黑桃海贼团
 Spade：黑桃
+Spadille：黑桃号
 Deuce：丢斯
+Masked Deuce：蒙面丢斯
+Banshee：班西
 FireFist：火拳
 Fire Fist：火拳
 Jozu：乔兹
@@ -71,13 +76,15 @@ Atmos：阿特摩斯
 Speed Jiru=斯比多·基尔
 Fossa：佛萨
 Izou：以藏
+Iao：以藏
 Whitey Bay：怀迪贝
 Little Oars：小奥兹
 
 //红发海贼团
 Red Force：雷德弗斯号
 Akagami no Shanks：红发香克斯
-Red-Haired Shanks=红发 香克斯
+Red-Haired Shanks：红发香克斯
+Shanks：香克斯
 Benn Beckman=本·贝克曼
 Yasopp：耶稣布
 Lucky Roux：拉基路
@@ -171,6 +178,7 @@ Kalifa：卡莉法
 Spandam：斯潘达姆
 Imu：伊姆
 Five Elders：五老星
+Isuka：伊斯卡
 
 //七武海
 Oka Shichibukai=王下 七武海
@@ -225,7 +233,7 @@ Magra：马古拉
 Makino：玛琪诺
 Woop：乌普
 Kaya：可雅
-Shakky：夏琦
+Shakky：夏琪
 Perona：佩罗娜
 Nefertari D Cobra=奈菲鲁塔丽·D·寇布拉
 Vivi：薇薇
@@ -270,6 +278,9 @@ Seastone：海楼石
 Sky Piea：空岛
 Amber Lead：珀铅病
 Captain：船长
+-san：桑
+vivre card：生命卡
+Saboady：香波地群岛
 
 禁翻词条
 
