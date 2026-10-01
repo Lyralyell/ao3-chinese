@@ -60,6 +60,7 @@ Spadille：黑桃号
 Deuce：丢斯
 Masked Deuce：蒙面丢斯
 Banshee：班西
+Kotatsu：柯达兹
 FireFist：火拳
 Fire Fist：火拳
 Jozu：乔兹
@@ -212,6 +213,7 @@ Kurozumi Orochi=黑炭 大蛇
 
 //霸气
 Haoushoku Haki=霸王色 霸气
+Conqueror's Haki：霸王色霸气
 Kenbunshoku Haki=见闻色 霸气
 Observation Haki：见闻色霸气
 Busoshoku Haki=武装色 霸气
