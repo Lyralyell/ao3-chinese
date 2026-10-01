@@ -1,7 +1,8 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：Lyralyell
 更新时间：2026-10-01
 
+//含常用词的名称不做词条
 通用词条
 
 //草帽海贼团
@@ -27,14 +28,14 @@ Jinbei：甚平
 
 //心脏海贼团
 Heart Pirates：心脏海贼团
-Trafalgar D Water Law=特拉法尔·D·瓦铁尔·罗
+Trafalgar D Law=特拉法尔·D·罗
 Rosinante：罗西南迪
 Corazon：柯拉松
 Bepo：贝波
 Shachi：夏奇
 Penguin：佩金
 
-//基德海贼团（名字中含常用词，因此不做词条）
+//基德海贼团
 Eustass：尤斯塔斯
 
 //白胡子海贼团
@@ -78,7 +79,7 @@ Yasopp：耶稣布
 Lucky Roux=拉基·路
 Hongo：本乡
 
-//百兽海贼团（名字中含常用词，因此不做词条）
+//百兽海贼团
 Kaido：凯多
 
 //BIG MOM海贼团
@@ -224,7 +225,6 @@ Uta：乌塔
 Bluegem：布鲁杰姆
 Pearlgamy：伯尔杰米
 Shiki：史基
-Rocks D Xebec=洛克斯·D·吉贝克
 Cavendish：卡文迪许
 Bartolomeo：巴托洛米奥
 Pirate：海贼
