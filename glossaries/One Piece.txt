@@ -30,6 +30,7 @@ Jinbei：甚平
 Heart Pirates：心脏海贼团
 Polar Tang：极地潜水号
 Trafalgar D Law=特拉法尔加·D·罗
+Traffy：特拉男
 Donquixote Rosinante：唐吉诃德·罗西南迪
 Corazon：柯拉松
 Cora-san：柯拉桑
@@ -204,7 +205,9 @@ Kurozumi Orochi=黑炭 大蛇
 //霸气
 Haoushoku Haki=霸王色 霸气
 Kenbunshoku Haki=见闻色 霸气
+Observation Haki：见闻色霸气
 Busoshoku Haki=武装色 霸气
+Armament Haki：武装色霸气
 
 //恶魔果实
 Devil Fruit：恶魔果实
@@ -254,6 +257,7 @@ Dressrosa：德雷斯罗萨
 Alabasta：阿拉巴斯坦
 Flevance：弗雷凡斯
 Baterilla：巴苔里拉
+Goa：哥亚
 Grand Lind：伟大航路
 Red Line：红土大陆
 Reverse Mountain：颠倒山
@@ -264,6 +268,8 @@ Impel down：因佩尔顿
 Marineford：马林梵多
 Seastone：海楼石
 Sky Piea：空岛
+Amber Lead：珀铅病
+Captain：船长
 
 禁翻词条
 
