@@ -1,6 +1,6 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：Lyralyell
-更新时间：2026-10-01
+更新时间：2026-10-02
 
 //含常用词的名称不做词条
 通用词条
@@ -28,12 +28,15 @@ Jinbei：甚平
 
 //心脏海贼团
 Heart Pirates：心脏海贼团
-Trafalgar D Law=特拉法尔·D·罗
-Rosinante：罗西南迪
+Polar Tang：极地潜水号
+Trafalgar D Law=特拉法尔加·D·罗
+Donquixote Rosinante：唐吉诃德·罗西南迪
 Corazon：柯拉松
+Cora-san：柯拉桑
 Bepo：贝波
 Shachi：夏奇
 Penguin：佩金
+-ya：当家的
 
 //基德海贼团
 Eustass：尤斯塔斯
@@ -76,7 +79,7 @@ Akagami no Shanks：红发香克斯
 Red-Haired Shanks=红发 香克斯
 Benn Beckman=本·贝克曼
 Yasopp：耶稣布
-Lucky Roux=拉基·路
+Lucky Roux：拉基路
 Hongo：本乡
 
 //百兽海贼团
@@ -125,6 +128,8 @@ Crocus：克罗卡斯
 
 //革命军
 Revolutionary Army：革命军
+Revolutionary：革命军
+Revolutionaries：革命军
 Monkey D Dragon=蒙奇·D·龙
 Emporio Ivankov=安普里奥·伊万科夫
 Sabo：萨博
@@ -208,6 +213,7 @@ Gomo Gomo no Mi：橡胶果实
 Mera Mera no Mi：烧烧果实
 Hana Hna no Mi：花花果实
 Bara Bara no Mi：四分五裂果实
+Ope Ope no Mi：手术果实
 
 //其他
 Dadan：达旦
@@ -227,8 +233,12 @@ Pearlgamy：伯尔杰米
 Shiki：史基
 Cavendish：卡文迪许
 Bartolomeo：巴托洛米奥
+Vergo：维尔戈
+Diamante：迪亚曼蒂
+Lao G；拉奥G
 Pirate：海贼
-pirate：海贼
+Pirates：海贼
+Pirate King：海贼王
 Pirates King：海贼王
 Yonko：四皇
 Four Emperors：四皇
@@ -238,9 +248,12 @@ buster call：屠魔令
 Den Den Mushi：电话虫
 Den Den：电话虫
 Fishman：鱼人
+Hibiscus：扶桑花
 Punk Hazard：庞克哈萨德
 Dressrosa：德雷斯罗萨
 Alabasta：阿拉巴斯坦
+Flevance：弗雷凡斯
+Baterilla：巴苔里拉
 Grand Lind：伟大航路
 Red Line：红土大陆
 Reverse Mountain：颠倒山
@@ -248,6 +261,7 @@ Belly：贝利
 Laugh Tale：拉夫德鲁
 Celestial Dragons：天龙人
 Impel down：因佩尔顿
+Marineford：马林梵多
 Seastone：海楼石
 Sky Piea：空岛
 
@@ -261,3 +275,5 @@ asl
 BIG MOM
 big mom
 Big Mom
+yoi
+Baby-5
