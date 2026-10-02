@@ -217,6 +217,7 @@ Punk Hazard：庞克哈萨德
 Caesar Clown=凯撒·库朗
 Dressrosa：德雷斯罗萨
 Mingo：明哥
+Young Master：少主
 Viola：维奥莱特
 Pica：琵卡
 Jora：乔拉
@@ -230,9 +231,10 @@ Dellinger：德林杰
 Machvise：马哈拜斯
 Bellamy：贝拉米
 Lucy：路西
-Kyros：
+Kyros：居鲁士
 Riku：力库
 Rebecca：蕾贝卡
+Scarlett：斯卡莱特
 Cavendish：卡文迪许
 Bartolomeo：巴托洛米奥
 Vergo：维尔戈
@@ -323,6 +325,7 @@ Fishman：鱼人
 Hibiscus：扶桑花
 Belly：贝利
 Seastone：海楼石
+sea stone：海楼石
 jolly roger：海贼旗
 jolly rogers：海贼旗
 Amber Lead：珀铅病
