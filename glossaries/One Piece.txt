@@ -225,21 +225,23 @@ Gimlet：吉姆雷特
 Senor：塞尼奥尔
 Russian：露西安
 Trebol：托雷波尔
+Vergo：维尔戈
+Diamante：迪亚曼蒂
+Lao G：拉奥G
 Gladius：古拉迪乌斯
 Buffalo：巴法罗
 Dellinger：德林杰
 Machvise：马哈拜斯
 Bellamy：贝拉米
 Lucy：路西
+Luffyland：路飞兰度
 Kyros：居鲁士
 Riku：力库
 Rebecca：蕾贝卡
 Scarlett：斯卡莱特
 Cavendish：卡文迪许
 Bartolomeo：巴托洛米奥
-Vergo：维尔戈
-Diamante：迪亚曼蒂
-Lao G：拉奥G
+Tontatta Tribe：小人族
 
 //和之国
 Kozuki Oden=光月 御田
@@ -278,6 +280,7 @@ Mera Mera no Mi：烧烧果实
 Hana Hna no Mi：花花果实
 Bara Bara no Mi：四分五裂果实
 Ope Ope no Mi：手术果实
+Hobi Hobi no Mi：童话果实
 
 //其他人名
 Dadan：达旦
