@@ -10,19 +10,23 @@ Mugiwara Kaizokudan：草帽海贼团
 Straw Hat Pirates：草帽海贼团
 Strawhat Pirates：草帽海贼团
 Mugiwara：草帽
+Straw Hat：草帽
 Monkey D Luffy=蒙奇·D·路飞
 Mugiwara-ya：草帽当家的
+Straw Hat-ya：草帽当家的
 Lu：路
 Strawhat brat：草帽小子
 Straw Hat brat：草帽小子
 Roronoa Zoro=罗罗诺亚·索隆
 Nami：娜美
+Nami-san：娜美桑
 Vinsmoke Sanji=文斯莫克·山治
 Usopp=乌索普
 Going Merry：前进梅利号
 Tony Tony Chopper=托尼·托尼·乔巴
 raccoon：狸猫
 Nico Robin=妮可·罗宾
+Robin-chan：罗宾酱
 Franky：弗兰奇
 Thousand Sunny：千里阳光号
 Brook：布鲁克
@@ -276,6 +280,7 @@ Hachi：小八
 Camie：凯米
 Gloriosa：火焰花
 Bon Clay=冯·克雷
+Caesar Clown=凯撒·库朗
 
 //其他
 Pirate：海贼
@@ -309,6 +314,10 @@ Entei：炎帝
 Hiken：火拳
 
 //地名
+East Blue：东海
+West Blue：西海
+South Blue：南海
+North Blue：北海
 Punk Hazard：庞克哈萨德
 Dressrosa：德雷斯罗萨
 Alabasta：阿拉巴斯坦
