@@ -66,7 +66,6 @@ Banshee：班西
 Kotatsu：柯达兹
 FireFist：火拳
 Fire Fist：火拳
-Hiken：火拳
 Jozu：乔兹
 Thatch：萨奇
 Vista：比斯塔
@@ -265,6 +264,7 @@ Joy Boy：乔伊波伊
 Hachi：小八
 Camie：凯米
 Gloriosa：火焰花
+Bon Clay=冯·克雷
 
 //其他
 Pirate：海贼
@@ -288,9 +288,13 @@ jolly rogers：海贼旗
 Amber Lead：珀铅病
 Captain：船长
 -san：桑
+-chan：酱
 vivre card：生命卡
 Celestial Dragons：天龙人
 Celestial Dragon：天龙人
+Dai Enkai：大炎戒
+Entei：炎帝
+Hiken：火拳
 
 //地名
 Punk Hazard：庞克哈萨德
@@ -309,6 +313,7 @@ Jaya：加雅岛
 Impel down：因佩尔顿
 Marineford：马林梵多
 Sky Piea：空岛
+Amazon Lily：亚马逊百合
 
 禁翻词条
 
