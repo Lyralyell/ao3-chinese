@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：Lyralyell
 更新时间：2026-10-02
 
@@ -155,8 +155,15 @@ Morley：莫里
 Lindbergh：林德伯格
 Karasu：乌鸦
 
-//海军
+//世界政府
 World Government：世界政府
+Five Elders：五老星
+StEthanbaron Nusjuro=伊赞巴隆·纳斯寿郎圣
+StShepherd Ju Peter=谢泼德·十·庇特圣
+StTopman Warcury=托普曼·沃丘利圣
+StMarcus Mars=玛卡斯·玛兹圣
+Jaygarcia Saturn=杰伊戈路西亚·萨坦圣
+Figarland Garling=费加兰度·格林古圣
 Marine：海军
 Sengoku：战国
 Sengoku The Buddha：佛之战国
@@ -183,7 +190,6 @@ Kaku：卡库
 Kalifa：卡莉法
 Spandam：斯潘达姆
 Imu：伊姆
-Five Elders：五老星
 Isuka：伊斯卡
 
 //七武海
