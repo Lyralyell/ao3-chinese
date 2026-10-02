@@ -155,6 +155,7 @@ Emporio Ivankov=安普里奥·伊万科夫
 Sabo：萨博
 bo：博
 Koala：克尔拉
+Hack：哈库
 Inazuma：闪电
 Belo Betty=贝洛·贝蒂
 Morley：莫里
@@ -280,7 +281,7 @@ Mera Mera no Mi：烧烧果实
 Hana Hna no Mi：花花果实
 Bara Bara no Mi：四分五裂果实
 Ope Ope no Mi：手术果实
-Hobi Hobi no Mi：童话果实
+Hobi Hobi no Mi：童趣果实
 
 //其他人名
 Dadan：达旦
