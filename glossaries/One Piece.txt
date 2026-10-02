@@ -11,6 +11,7 @@ Straw Hat Pirates：草帽海贼团
 Strawhat Pirates：草帽海贼团
 Mugiwara：草帽
 Monkey D Luffy=蒙奇·D·路飞
+Mugiwara-ya：草帽当家的
 Lu：路
 Strawhat brat：草帽小子
 Straw Hat brat：草帽小子
@@ -195,7 +196,7 @@ Boa Hancock=波雅·汉库克
 Dracule Mihawk=乔拉可尔·米霍克
 Bartholomew Kuma=巴索罗米·熊
 Weevil：威布尔
-Gecko Moria：月光·莫利亚
+Gecko Moria=月光·莫利亚
 
 //和之国
 Kozuki Oden=光月 御田
@@ -234,7 +235,7 @@ Hana Hna no Mi：花花果实
 Bara Bara no Mi：四分五裂果实
 Ope Ope no Mi：手术果实
 
-//其他
+//其他人名
 Dadan：达旦
 Dogra：多古拉
 Magra：马古拉
@@ -263,6 +264,9 @@ Iceburg：冰山
 Joy Boy：乔伊波伊
 Hachi：小八
 Camie：凯米
+Gloriosa：火焰花
+
+//其他
 Pirate：海贼
 Pirates：海贼
 Pirate King：海贼王
@@ -277,6 +281,18 @@ Den Den：电话虫
 baby den den mushi：婴儿电话虫
 Fishman：鱼人
 Hibiscus：扶桑花
+Belly：贝利
+Seastone：海楼石
+jolly roger：海贼旗
+jolly rogers：海贼旗
+Amber Lead：珀铅病
+Captain：船长
+-san：桑
+vivre card：生命卡
+Celestial Dragons：天龙人
+Celestial Dragon：天龙人
+
+//地名
 Punk Hazard：庞克哈萨德
 Dressrosa：德雷斯罗萨
 Alabasta：阿拉巴斯坦
@@ -286,22 +302,13 @@ Goa：哥亚
 Grand Lind：伟大航路
 Red Line：红土大陆
 Reverse Mountain：颠倒山
-Belly：贝利
 Laugh Tale：拉夫德鲁
-Celestial Dragons：天龙人
-Impel down：因佩尔顿
-Marineford：马林梵多
-Seastone：海楼石
-Sky Piea：空岛
-Amber Lead：珀铅病
-Captain：船长
--san：桑
-vivre card：生命卡
 Saboady：香波地群岛
 Water 7：七水之都
 Jaya：加雅岛
-jolly roger：海贼旗
-jolly rogers：海贼旗
+Impel down：因佩尔顿
+Marineford：马林梵多
+Sky Piea：空岛
 
 禁翻词条
 
