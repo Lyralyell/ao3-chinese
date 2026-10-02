@@ -190,8 +190,8 @@ Donquixote Doflamingo=唐吉诃德·多弗朗明哥
 Boa Hancock=波雅·汉库克
 Dracule Mihawk=乔拉可尔·米霍克
 Bartholemew Kuma=巴索罗米·熊
-Edward Weevil=爱德华·威布尔
-Gecko Moria月光·莫利亚
+Weevil：威布尔
+Gecko Moria：月光·莫利亚
 
 //和之国
 Kozuki Oden=光月 御田
@@ -264,6 +264,7 @@ Kuja Pirates：九蛇海贼团
 buster call：屠魔令
 Den Den Mushi：电话虫
 Den Den：电话虫
+baby den den mushi：婴儿电话虫
 Fishman：鱼人
 Hibiscus：扶桑花
 Punk Hazard：庞克哈萨德
@@ -289,6 +290,8 @@ vivre card：生命卡
 Saboady：香波地群岛
 Water 7：七水之都
 Jaya：加雅岛
+jolly roger：海贼旗
+jolly rogers：海贼旗
 
 禁翻词条
 
