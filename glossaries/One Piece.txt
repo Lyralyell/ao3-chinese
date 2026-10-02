@@ -343,6 +343,7 @@ Celestial Dragon：天龙人
 Dai Enkai：大炎戒
 Entei：炎帝
 Hiken：火拳
+Nika：尼卡
 
 //地名
 East Blue：东海
