@@ -1,6 +1,6 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：Lyralyell
-更新时间：2026-10-02
+更新时间：2026-10-03
 
 //含常用词的名称不做词条
 通用词条
@@ -212,6 +212,33 @@ Bartholomew Kuma=巴索罗米·熊
 Weevil：威布尔
 Gecko Moria=月光·莫利亚
 
+//德雷斯罗萨
+Punk Hazard：庞克哈萨德
+Caesar Clown=凯撒·库朗
+Dressrosa：德雷斯罗萨
+Mingo：明哥
+Viola：维奥莱特
+Pica：琵卡
+Jora：乔拉
+Gimlet：吉姆雷特
+Senor：塞尼奥尔
+Russian：露西安
+Trebol：托雷波尔
+Gladius：古拉迪乌斯
+Buffalo：巴法罗
+Dellinger：德林杰
+Machvise：马哈拜斯
+Bellamy：贝拉米
+Lucy：路西
+Kyros：
+Riku：力库
+Rebecca：蕾贝卡
+Cavendish：卡文迪许
+Bartolomeo：巴托洛米奥
+Vergo：维尔戈
+Diamante：迪亚曼蒂
+Lao G：拉奥G
+
 //和之国
 Kozuki Oden=光月 御田
 Kozuki Toki=光月 时
@@ -219,6 +246,7 @@ Kozuki Momonosuke=光月 桃之助
 Kozuki Hiyori=光月 日和
 Nine Red Scabbards：赤鞘九侠
 Kinemon：锦卫门
+Kin'emon：锦卫门
 Denjiro：传次郎
 Kikunojo：菊之丞
 Kanjuro：勘十郎
@@ -268,11 +296,6 @@ Dr. Kureha：库蕾哈医娘
 Bluejam：布鲁杰姆
 Pearlgamy：伯尔杰米
 Shiki：史基
-Cavendish：卡文迪许
-Bartolomeo：巴托洛米奥
-Vergo：维尔戈
-Diamante：迪亚曼蒂
-Lao G：拉奥G
 Paulie：巴利
 Iceburg：冰山
 Joy Boy：乔伊波伊
@@ -280,7 +303,6 @@ Hachi：小八
 Camie：凯米
 Gloriosa：火焰花
 Bon Clay=冯·克雷
-Caesar Clown=凯撒·库朗
 
 //其他
 Pirate：海贼
@@ -289,6 +311,8 @@ Pirate King：海贼王
 Pirates King：海贼王
 Yonko：四皇
 Four Emperors：四皇
+Commanders：队长
+Commander：队长
 New World：新世界
 Kuja Pirates：九蛇海贼团
 buster call：屠魔令
@@ -318,8 +342,6 @@ East Blue：东海
 West Blue：西海
 South Blue：南海
 North Blue：北海
-Punk Hazard：庞克哈萨德
-Dressrosa：德雷斯罗萨
 Alabasta：阿拉巴斯坦
 Flevance：弗雷凡斯
 Baterilla：巴苔里拉
@@ -350,3 +372,4 @@ Big Mom
 yoi
 Baby-5
 Room
+Joker
