@@ -42,7 +42,7 @@ Penguin：佩金
 -ya：当家的
 
 //基德海贼团
-Eustass：尤斯塔斯
+Eustass Kidd=尤斯塔斯·基德
 
 //白胡子海贼团
 Whitebeard Pirates：白胡子海贼团
@@ -135,6 +135,7 @@ Gol D Roger=哥尔·D·罗杰
 Portgas D Rouge=波特卡斯·D·露玖
 Gold Roger：黄金罗杰
 Silvers Rayleigh=西尔巴兹·雷利
+Dark King：冥王
 Scopper Gaban=司克帕·贾巴
 Crocus：克罗卡斯
 
@@ -189,9 +190,10 @@ Oka Shichibukai=王下 七武海
 Sir Crocodile：沙·克洛克达尔
 Buggy：巴基
 Donquixote Doflamingo=唐吉诃德·多弗朗明哥
+Doffy：多弗
 Boa Hancock=波雅·汉库克
 Dracule Mihawk=乔拉可尔·米霍克
-Bartholemew Kuma=巴索罗米·熊
+Bartholomew Kuma=巴索罗米·熊
 Weevil：威布尔
 Gecko Moria：月光·莫利亚
 
@@ -247,6 +249,7 @@ Shirahoshi：白星
 Uta：乌塔
 Kureha：库蕾哈
 Dr.Kureha：库蕾哈医娘
+Dr. Kureha：库蕾哈医娘
 Bluejam：布鲁杰姆
 Pearlgamy：伯尔杰米
 Shiki：史基
@@ -257,6 +260,9 @@ Diamante：迪亚曼蒂
 Lao G：拉奥G
 Paulie：巴利
 Iceburg：冰山
+Joy Boy：乔伊波伊
+Hachi：小八
+Camie：凯米
 Pirate：海贼
 Pirates：海贼
 Pirate King：海贼王
