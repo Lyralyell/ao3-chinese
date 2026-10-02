@@ -38,9 +38,11 @@ Rosinante：罗西南迪
 Corazon：柯拉松
 Cora-san：柯拉桑
 Bepo：贝波
-Shachi：夏奇
+Shachi：夏其
 Penguin：佩金
--ya：当家的
+Ikkaku：一角
+Hakugan：白雁
+Jean Bart：江波尔
 
 //基德海贼团
 Eustass Kidd=尤斯塔斯·基德
@@ -296,6 +298,7 @@ Amber Lead：珀铅病
 Captain：船长
 -san：桑
 -chan：酱
+-ya：当家的
 vivre card：生命卡
 Celestial Dragons：天龙人
 Celestial Dragon：天龙人
@@ -314,6 +317,7 @@ Grand Lind：伟大航路
 Red Line：红土大陆
 Reverse Mountain：颠倒山
 Laugh Tale：拉夫德鲁
+Raftel：拉夫德鲁
 Saboady：香波地群岛
 Water 7：七水之都
 Jaya：加雅岛
