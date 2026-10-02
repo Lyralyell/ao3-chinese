@@ -65,6 +65,7 @@ Banshee：班西
 Kotatsu：柯达兹
 FireFist：火拳
 Fire Fist：火拳
+Hiken：火拳
 Jozu：乔兹
 Thatch：萨奇
 Vista：比斯塔
@@ -124,7 +125,7 @@ Rafitto：拉斐特
 Laffitte：拉斐特
 Catarina Devon=卡特琳·蝶美
 Sanjuan Wolf=圣胡安·恶狼
-Vasco Shot=巴斯克·乔特
+Vasco：巴斯克
 Doc Q：毒医Q
 
 //罗杰海贼团
@@ -203,7 +204,7 @@ Nine Red Scabbards：赤鞘九侠
 Kinemon：锦卫门
 Denjiro：传次郎
 Kikunojo：菊之丞
-Kurozumi Kanjuro=黑炭 勘十郎
+Kanjuro：勘十郎
 Raizo=雷藏
 Ashura Doji：阿修罗童子
 Kawamatsu：河松
@@ -244,6 +245,8 @@ Nefertari D Cobra=奈菲鲁塔丽·D·寇布拉
 Vivi：薇薇
 Shirahoshi：白星
 Uta：乌塔
+Kureha：库蕾哈
+Dr.Kureha：库蕾哈医娘
 Bluejam：布鲁杰姆
 Pearlgamy：伯尔杰米
 Shiki：史基
@@ -251,7 +254,7 @@ Cavendish：卡文迪许
 Bartolomeo：巴托洛米奥
 Vergo：维尔戈
 Diamante：迪亚曼蒂
-Lao G；拉奥G
+Lao G：拉奥G
 Paulie：巴利
 Iceburg：冰山
 Pirate：海贼
