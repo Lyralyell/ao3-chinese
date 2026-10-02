@@ -83,6 +83,7 @@ Izou：以藏
 Izo：以藏
 Whitey Bay：怀迪贝
 Little Oars：小奥兹
+Squard：斯库亚德
 
 //红发海贼团
 Red Force：雷德弗斯号
@@ -327,3 +328,4 @@ big mom
 Big Mom
 yoi
 Baby-5
+Room
