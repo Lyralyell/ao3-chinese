@@ -196,6 +196,8 @@ Isuka：伊斯卡
 
 //七武海
 Oka Shichibukai=王下 七武海
+Warlord：七武海
+Warlords：七武海
 Sir Crocodile：沙·克洛克达尔
 Buggy：巴基
 Donquixote Doflamingo=唐吉诃德·多弗朗明哥
