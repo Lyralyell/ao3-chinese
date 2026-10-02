@@ -309,6 +309,11 @@ Hachi：小八
 Camie：凯米
 Gloriosa：火焰花
 Bon Clay=冯·克雷
+Sora：索拉
+Reiju：蕾玖
+Ichiji：伊治
+Niji：尼治
+Yonji：勇治
 
 //其他
 Pirate：海贼
