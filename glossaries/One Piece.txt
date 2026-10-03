@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：Lyralyell
 更新时间：2026-10-03
 
@@ -169,6 +169,7 @@ Karasu：乌鸦
 
 //世界政府
 World Government：世界政府
+Imu：伊姆
 Five Elders：五老星
 StEthanbaron Nusjuro=伊赞巴隆·纳斯寿郎圣
 StShepherd Ju Peter=谢泼德·十·庇特圣
@@ -176,6 +177,8 @@ StTopman Warcury=托普曼·沃丘利圣
 StMarcus Mars=玛卡斯·玛兹圣
 Jaygarcia Saturn=杰伊戈路西亚·萨坦圣
 Figarland Garling=费加兰度·格林古圣
+God Knights：神之骑士
+Shamrock：夏姆洛克
 Marine：海军
 Sengoku：战国
 Sengoku The Buddha：佛之战国
@@ -201,8 +204,8 @@ Hattori：哈多利
 Kaku：卡库
 Kalifa：卡莉法
 Spandam：斯潘达姆
-Imu：伊姆
 Isuka：伊斯卡
+Drake：德雷克
 
 //七武海
 Oka Shichibukai=王下 七武海
@@ -259,6 +262,7 @@ Nine Red Scabbards：赤鞘九侠
 Kinemon：锦卫门
 Kin emon：锦卫门
 Denjiro：传次郎
+Kyoshiro：狂死郎
 Kikunojo：菊之丞
 Kanjuro：勘十郎
 Raizo=雷藏
@@ -269,6 +273,9 @@ Nekomamushi：猫蝮蛇
 Yamato：大和
 Tama：小玉
 Kurozumi Orochi=黑炭 大蛇
+Lunarian：露娜利亚族
+Kuri area：九里
+Flower Capital：花都
 
 //霸气
 Haoushoku Haki=霸王色 霸气
@@ -331,6 +338,12 @@ Ichiji：伊治
 Niji：尼治
 Yonji：勇治
 Bege：贝基
+Buggy s Delivery：巴基速递
+Mohiji：摩奇
+Richie：利基
+Galdino：贾尔迪诺
+Alvida：亚尔丽塔
+
 
 //其他
 Pirate：海贼
@@ -391,6 +404,8 @@ Impel down：因佩尔顿
 Marineford：马林梵多
 Sky Piea：空岛
 Amazon Lily：亚马逊百合
+Ohara：奥哈拉
+Sphinx：斯芬克斯
 
 词条
 Carrot：加洛特
