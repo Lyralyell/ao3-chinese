@@ -326,7 +326,7 @@ Hobi Hobi no Mi：童趣果实
 Dadan：达旦
 Dogra：多古拉
 Magra：马古拉
-Ann；安
+Ann：安
 Makino：玛琪诺
 Woop：乌普
 Kaya：可雅
@@ -487,3 +487,4 @@ Room
 Joker
 Miss
 MADS
+swan
