@@ -1,6 +1,6 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：Lyralyell
-更新时间：2026-10-03
+更新时间：2026-10-04
 
 //含常用词的名称不做词条
 通用词条
@@ -107,7 +107,7 @@ Lucky Roux：拉基路
 Hongo：本乡
 
 //百兽海贼团
-The Beast Pirates：百兽海贼团
+Beast Pirates：百兽海贼团
 Kaido：凯多
 
 //BIG MOM海贼团
@@ -273,12 +273,14 @@ Kawamatsu：河松
 Inuarashi：犬岚
 Dogstorm：犬岚
 Nekomamushi：猫蝮蛇
+Cat Viper：猫蝮蛇
 Yamato：大和
 Tama：小玉
 Kurozumi Orochi=黑炭 大蛇
 Lunarian：露娜利亚族
 Kuri area：九里
 Flower Capital：花都
+Black Maria：黑色玛利亚
 
 //霸气
 Haoushoku Haki=霸王色 霸气
@@ -347,6 +349,7 @@ Richie：利基
 Galdino：贾尔迪诺
 Alvida：亚尔丽塔
 Bonney：邦妮
+Shyarly：夏莉
 
 //其他
 Pirate：海贼
@@ -373,6 +376,9 @@ jolly roger：海贼旗
 jolly rogers：海贼旗
 Amber Lead：珀铅病
 Captain：船长
+crew：船员
+World Noble：世界贵族
+ship：船
 -san：桑
 -chan：酱
 -sama：大人
@@ -383,6 +389,7 @@ Celestial Dragon：天龙人
 Dai Enkai：大炎戒
 Entei：炎帝
 Hiken：火拳
+Cross fire：十字火
 Nika：尼卡
 Germa：杰尔玛
 “Buggy's Delivery”：巴基速递
