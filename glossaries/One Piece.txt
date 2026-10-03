@@ -260,7 +260,7 @@ Kozuki Momonosuke=光月 桃之助
 Kozuki Hiyori=光月 日和
 Nine Red Scabbards：赤鞘九侠
 Kinemon：锦卫门
-Kin emon：锦卫门
+“Kin'emon”：锦卫门
 Denjiro：传次郎
 Kyoshiro：狂死郎
 Kikunojo：菊之丞
@@ -279,7 +279,7 @@ Flower Capital：花都
 
 //霸气
 Haoushoku Haki=霸王色 霸气
-Conqueror's Haki：霸王色霸气
+“Conqueror's” Haki：霸王色霸气
 Kenbunshoku Haki=见闻色 霸气
 Observation Haki：见闻色霸气
 Busoshoku Haki=武装色 霸气
@@ -381,7 +381,7 @@ Entei：炎帝
 Hiken：火拳
 Nika：尼卡
 Germa：杰尔玛
-Buggy's Delivery：巴基速递
+“Buggy's” Delivery：巴基速递
 
 //地名
 East Blue：东海
