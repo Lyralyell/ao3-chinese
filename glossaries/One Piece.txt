@@ -51,6 +51,7 @@ Penguin：佩金
 Ikkaku：一角
 Hakugan：白雁
 Jean Bart：江波尔
+Uni：海胆
 
 //基德海贼团
 Eustass Kidd=尤斯塔斯·基德
@@ -256,7 +257,7 @@ Kozuki Momonosuke=光月 桃之助
 Kozuki Hiyori=光月 日和
 Nine Red Scabbards：赤鞘九侠
 Kinemon：锦卫门
-Kin'emon：锦卫门
+Kin emon：锦卫门
 Denjiro：传次郎
 Kikunojo：菊之丞
 Kanjuro：勘十郎
@@ -367,6 +368,7 @@ Dai Enkai：大炎戒
 Entei：炎帝
 Hiken：火拳
 Nika：尼卡
+Germa：杰尔玛
 
 //地名
 East Blue：东海
