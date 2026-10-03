@@ -376,6 +376,7 @@ Shyarly：夏莉
 Xebec：吉贝克
 Buckingham Stussy=芭金戈姆·斯图西
 Du Feld=杜·费尔德
+Zeff：泽夫
 
 //其他
 Pirate：海贼
@@ -401,7 +402,6 @@ Seastone：海楼石
 sea stone：海楼石
 Eternal Pose：永恒指针
 Log Pose：记录指针
-
 jolly roger：海贼旗
 jolly rogers：海贼旗
 Amber Lead：珀铅病
@@ -430,6 +430,8 @@ Sky Walk：月步
 Empty Throne：虚空王座
 staff：水管
 Rocks Pirates：洛克斯海贼团
+mink：毛皮族
+clima tact：天候棒
 
 //地名
 East Blue：东海
@@ -457,6 +459,7 @@ Ohara：奥哈拉
 Sphinx：斯芬克斯
 Lost Chamber：花之间
 Elbaph：艾尔巴夫
+Zou：佐乌
 
 词条
 Carrot：加洛特
