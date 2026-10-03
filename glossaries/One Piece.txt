@@ -338,7 +338,6 @@ Ichiji：伊治
 Niji：尼治
 Yonji：勇治
 Bege：贝基
-Buggy s Delivery：巴基速递
 Mohiji：摩奇
 Richie：利基
 Galdino：贾尔迪诺
@@ -382,6 +381,7 @@ Entei：炎帝
 Hiken：火拳
 Nika：尼卡
 Germa：杰尔玛
+Buggy's Delivery：巴基速递
 
 //地名
 East Blue：东海
