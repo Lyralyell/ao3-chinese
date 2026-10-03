@@ -255,6 +255,7 @@ Tontatta Tribe：小人族
 Leo：雷欧
 
 //和之国
+Wano：和之国
 Kozuki Oden=光月 御田
 Kozuki Toki=光月 时
 Kozuki Momonosuke=光月 桃之助
@@ -270,6 +271,7 @@ Raizo=雷藏
 Ashura Doji：阿修罗童子
 Kawamatsu：河松
 Inuarashi：犬岚
+Dogstorm：犬岚
 Nekomamushi：猫蝮蛇
 Yamato：大和
 Tama：小玉
@@ -320,8 +322,9 @@ Arlong：阿龙
 Hody Jones=霍迪·琼斯
 Uta：乌塔
 Kureha：库蕾哈
-Dr.Kureha：库蕾哈医娘
-Dr. Kureha：库蕾哈医娘
+Dr.Kureha：库蕾哈医生
+Dr. Kureha：库蕾哈医生
+Doctor Kureha：库蕾哈医生
 Dalton：多尔顿
 Bluejam：布鲁杰姆
 Pearlgamy：伯尔杰米
@@ -343,6 +346,7 @@ Mohiji：摩奇
 Richie：利基
 Galdino：贾尔迪诺
 Alvida：亚尔丽塔
+Bonney：邦妮
 
 //其他
 Pirate：海贼
@@ -383,6 +387,10 @@ Nika：尼卡
 Germa：杰尔玛
 “Buggy's Delivery”：巴基速递
 Reverie：世界会议
+Striker：前锋号
+Sky Walk：月步
+Empty Throne：虚空王座
+staff：水管
 
 //地名
 East Blue：东海
@@ -407,7 +415,7 @@ Sky Piea：空岛
 Amazon Lily：亚马逊百合
 Ohara：奥哈拉
 Sphinx：斯芬克斯
-Wano：和之国
+Lost Chamber：花之间
 
 词条
 Carrot：加洛特
