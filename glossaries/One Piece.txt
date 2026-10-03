@@ -105,6 +105,7 @@ Benn Beckman=本·贝克曼
 Yasopp：耶稣布
 Lucky Roux：拉基路
 Hongo：本乡
+Rockstar：洛克斯达
 
 //百兽海贼团
 Beast Pirates：百兽海贼团
@@ -207,6 +208,7 @@ Kalifa：卡莉法
 Spandam：斯潘达姆
 Isuka：伊斯卡
 Drake：德雷克
+Sentoumaru：战桃丸
 
 //七武海
 Oka Shichibukai=王下 七武海
@@ -282,6 +284,23 @@ Kuri area：九里
 Flower Capital：花都
 Black Maria：黑色玛利亚
 
+//蛋头岛
+Vegapunk：贝加庞克
+Vega punk=贝加·庞克
+“Dr.Vegapunk”：贝加庞克博士
+Doctor Vegapunk：贝加庞克博士
+Lilith：莉莉丝
+Shaka：释迦
+Pythagoras：毕达哥拉斯
+Edison：爱迪生
+York：约克
+Atlas：阿特拉斯
+Paramecia：
+“S-Bear”：S-熊
+“S-Shark”：S-鲨
+“S-Snake”：S-蛇
+“S-Eagle”：S-鹰
+
 //霸气
 Haoushoku Haki=霸王色 霸气
 “Conqueror's Haki”：霸王色霸气
@@ -294,6 +313,7 @@ Armament Haki：武装色霸气
 Devil Fruit：恶魔果实
 Devil Fruits：恶魔果实
 Logia：自然系
+Paramecia：超人系
 Gomo Gomo no Mi：橡胶果实
 Mera Mera no Mi：烧烧果实
 Hana Hna no Mi：花花果实
@@ -324,7 +344,7 @@ Arlong：阿龙
 Hody Jones=霍迪·琼斯
 Uta：乌塔
 Kureha：库蕾哈
-Dr.Kureha：库蕾哈医生
+“Dr.Kureha”：库蕾哈医生
 Dr. Kureha：库蕾哈医生
 Doctor Kureha：库蕾哈医生
 Dalton：多尔顿
@@ -348,8 +368,12 @@ Mohiji：摩奇
 Richie：利基
 Galdino：贾尔迪诺
 Alvida：亚尔丽塔
-Bonney：邦妮
+Jewellery Bonney=乔艾莉·波妮
+Ginny：金妮
 Shyarly：夏莉
+Xebec：吉贝克
+Buckingham Stussy=芭金戈姆·斯图西
+Du Feld=杜·费尔德
 
 //其他
 Pirate：海贼
@@ -364,7 +388,7 @@ New World：新世界
 Kuja Pirates：九蛇海贼团
 buster call：屠魔令
 Den Den Mushi：电话虫
-Den Den：电话虫
+Den Den Mushis：电话虫
 baby den den mushi：婴儿电话虫
 Fishman：鱼人
 mermaid：人鱼
@@ -377,6 +401,7 @@ jolly rogers：海贼旗
 Amber Lead：珀铅病
 Captain：船长
 crew：船员
+crews：船员
 World Noble：世界贵族
 ship：船
 -san：桑
@@ -398,6 +423,7 @@ Striker：前锋号
 Sky Walk：月步
 Empty Throne：虚空王座
 staff：水管
+Rocks Pirates：洛克斯海贼团
 
 //地名
 East Blue：东海
@@ -415,6 +441,7 @@ Laugh Tale：拉夫德鲁
 Raftel：拉夫德鲁
 Saboady：香波地群岛
 Water 7：七水之都
+Enies Lobby：司法岛
 Jaya：加雅岛
 Impel down：因佩尔顿
 Marineford：马林梵多
@@ -426,9 +453,11 @@ Lost Chamber：花之间
 
 词条
 Carrot：加洛特
+Judge：伽治
 Killer：基拉
 King：烬
 Queen：奎因
+Rocks：洛克斯
 
 禁翻词条
 
@@ -444,3 +473,5 @@ yoi
 Baby-5
 Room
 Joker
+Miss
+MADS
