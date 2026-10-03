@@ -88,7 +88,7 @@ Curiel：库利艾尔
 Kingdew：金古多
 Haruta：哈尔塔
 Atmos：阿特摩斯
-Speed Jiru=斯比多·基尔
+Jiru：基尔
 Fossa：佛萨
 Izou：以藏
 Izo：以藏
@@ -184,6 +184,7 @@ Shamrock：夏姆洛克
 Marine：海军
 Sengoku：战国
 Sengoku The Buddha：佛之战国
+Admiral：海军大将
 Sakazuki：萨卡斯基
 Akainu：赤犬
 Borsalino：波鲁萨利诺
@@ -286,7 +287,6 @@ Black Maria：黑色玛利亚
 
 //蛋头岛
 Vegapunk：贝加庞克
-Vega punk=贝加·庞克
 “Dr.Vegapunk”：贝加庞克博士
 Doctor Vegapunk：贝加庞克博士
 Lilith：莉莉丝
@@ -300,6 +300,7 @@ Paramecia：
 “S-Shark”：S-鲨
 “S-Snake”：S-蛇
 “S-Eagle”：S-鹰
+Frontier Dome：边界穹顶
 
 //霸气
 Haoushoku Haki=霸王色 霸气
@@ -325,6 +326,7 @@ Hobi Hobi no Mi：童趣果实
 Dadan：达旦
 Dogra：多古拉
 Magra：马古拉
+Ann；安
 Makino：玛琪诺
 Woop：乌普
 Kaya：可雅
@@ -384,6 +386,7 @@ Yonko：四皇
 Four Emperors：四皇
 Commanders：队长
 Commander：队长
+navigator：航海士
 New World：新世界
 Kuja Pirates：九蛇海贼团
 buster call：屠魔令
@@ -396,6 +399,9 @@ Hibiscus：扶桑花
 Belly：贝利
 Seastone：海楼石
 sea stone：海楼石
+Eternal Pose：永恒指针
+Log Pose：记录指针
+
 jolly roger：海贼旗
 jolly rogers：海贼旗
 Amber Lead：珀铅病
@@ -450,6 +456,7 @@ Amazon Lily：亚马逊百合
 Ohara：奥哈拉
 Sphinx：斯芬克斯
 Lost Chamber：花之间
+Elbaph：艾尔巴夫
 
 词条
 Carrot：加洛特
@@ -458,6 +465,8 @@ Killer：基拉
 King：烬
 Queen：奎因
 Rocks：洛克斯
+Speed：斯比多
+Sunny：桑尼号
 
 禁翻词条
 
