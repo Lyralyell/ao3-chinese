@@ -107,6 +107,7 @@ Lucky Roux：拉基路
 Hongo：本乡
 
 //百兽海贼团
+The Beast Pirates：百兽海贼团
 Kaido：凯多
 
 //BIG MOM海贼团
@@ -279,7 +280,7 @@ Flower Capital：花都
 
 //霸气
 Haoushoku Haki=霸王色 霸气
-“Conqueror's” Haki：霸王色霸气
+“Conqueror's Haki”：霸王色霸气
 Kenbunshoku Haki=见闻色 霸气
 Observation Haki：见闻色霸气
 Busoshoku Haki=武装色 霸气
@@ -381,7 +382,7 @@ Entei：炎帝
 Hiken：火拳
 Nika：尼卡
 Germa：杰尔玛
-“Buggy's” Delivery：巴基速递
+“Buggy's Delivery”：巴基速递
 
 //地名
 East Blue：东海
