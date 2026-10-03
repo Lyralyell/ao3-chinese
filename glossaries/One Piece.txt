@@ -41,6 +41,7 @@ Polar Tang：极地潜水号
 Trafalgar D Law=特拉法尔加·D·罗
 Traffy：特拉男
 Kikoku：鬼哭
+Shambles：交换
 Rosinante：罗西南迪
 Corazon：柯拉松
 Cora-san：柯拉桑
@@ -388,6 +389,12 @@ Impel down：因佩尔顿
 Marineford：马林梵多
 Sky Piea：空岛
 Amazon Lily：亚马逊百合
+
+词条
+Carrot：加洛特
+Killer：基拉
+King：烬
+Queen：奎因
 
 禁翻词条
 
