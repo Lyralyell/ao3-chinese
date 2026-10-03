@@ -381,7 +381,7 @@ Entei：炎帝
 Hiken：火拳
 Nika：尼卡
 Germa：杰尔玛
-Buggy Delivery：巴基速递
+Buggy's Delivery：巴基速递
 
 //地名
 East Blue：东海
