@@ -18,9 +18,12 @@ Lu：路
 Strawhat brat：草帽小子
 Straw Hat brat：草帽小子
 Roronoa Zoro=罗罗诺亚·索隆
+Marimo：绿藻头
 Nami：娜美
 Nami-san：娜美桑
 Vinsmoke Sanji=文斯莫克·山治
+Black Leg：黑足
+love cook：色厨子
 Usopp=乌索普
 Going Merry：前进梅利号
 Tony Tony Chopper=托尼·托尼·乔巴
@@ -314,6 +317,7 @@ Reiju：蕾玖
 Ichiji：伊治
 Niji：尼治
 Yonji：勇治
+Bege：贝基
 
 //其他
 Pirate：海贼
@@ -341,6 +345,7 @@ Amber Lead：珀铅病
 Captain：船长
 -san：桑
 -chan：酱
+-sama：大人
 -ya：当家的
 vivre card：生命卡
 Celestial Dragons：天龙人
