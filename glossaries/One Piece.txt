@@ -246,6 +246,7 @@ Scarlett：斯卡莱特
 Cavendish：卡文迪许
 Bartolomeo：巴托洛米奥
 Tontatta Tribe：小人族
+Leo：雷欧
 
 //和之国
 Kozuki Oden=光月 御田
@@ -298,10 +299,20 @@ Perona：佩罗娜
 Nefertari D Cobra=奈菲鲁塔丽·D·寇布拉
 Vivi：薇薇
 Shirahoshi：白星
+Fukaboshi：鲨星
+Ryuboshi：皇星
+Manboshi：翻车星
+Neptune：尼普顿
+Otohime：乙姬
+Fisher：费舍尔
+Mjsogard：穆斯加尔德圣
+Arlong：阿龙
+Hody Jones=霍迪·琼斯
 Uta：乌塔
 Kureha：库蕾哈
 Dr.Kureha：库蕾哈医娘
 Dr. Kureha：库蕾哈医娘
+Dalton：多尔顿
 Bluejam：布鲁杰姆
 Pearlgamy：伯尔杰米
 Shiki：史基
@@ -335,6 +346,7 @@ Den Den Mushi：电话虫
 Den Den：电话虫
 baby den den mushi：婴儿电话虫
 Fishman：鱼人
+mermaid：人鱼
 Hibiscus：扶桑花
 Belly：贝利
 Seastone：海楼石
