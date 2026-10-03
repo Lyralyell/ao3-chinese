@@ -344,7 +344,6 @@ Richie：利基
 Galdino：贾尔迪诺
 Alvida：亚尔丽塔
 
-
 //其他
 Pirate：海贼
 Pirates：海贼
@@ -383,6 +382,7 @@ Hiken：火拳
 Nika：尼卡
 Germa：杰尔玛
 “Buggy's Delivery”：巴基速递
+Reverie：世界会议
 
 //地名
 East Blue：东海
@@ -407,6 +407,7 @@ Sky Piea：空岛
 Amazon Lily：亚马逊百合
 Ohara：奥哈拉
 Sphinx：斯芬克斯
+Wano：和之国
 
 词条
 Carrot：加洛特
