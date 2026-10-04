@@ -462,6 +462,7 @@ Elbaph：艾尔巴夫
 Zou：佐乌
 
 词条
+Water：瓦铁尔
 Carrot：加洛特
 Judge：伽治
 Killer：基拉
@@ -470,6 +471,7 @@ Queen：奎因
 Rocks：洛克斯
 Speed：斯比多
 Sunny：桑尼号
+Merry：梅利号
 
 禁翻词条
 
