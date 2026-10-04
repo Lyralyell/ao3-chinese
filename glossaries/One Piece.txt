@@ -1,8 +1,28 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：Lyralyell
 更新时间：2026-10-04
 
-//含常用词的名称不做词条
+词条
+//含常用词的名称，区分大小写
+Monkey D. Luffy=蒙奇·D·路飞
+Portgas D. Ace=波特卡斯·D·艾斯
+Trafalgar D. Water Law=特拉法尔加·D·瓦铁尔·罗
+Monkey D. Garp=蒙奇·D·卡普
+Monkey D. Dragon=蒙奇·D·龙
+Crocodile：克洛克达尔
+Carrot：加洛特
+Judge：伽治
+Killer：基拉
+King：烬
+Queen：奎因
+Rocks：洛克斯
+Speed：斯比多
+Sunny：桑尼号
+Merry：梅利号
+Dawn：黎明岛
+Outlook：奥特卢克
+Smoker：斯摩格
+
 通用词条
 
 //草帽海贼团
@@ -11,7 +31,6 @@ Straw Hat Pirates：草帽海贼团
 Strawhat Pirates：草帽海贼团
 Mugiwara：草帽
 Straw Hat：草帽
-Monkey D. Luffy=蒙奇·D·路飞
 Mugiwara-ya：草帽当家的
 Straw Hat-ya：草帽当家的
 Lu：路
@@ -67,7 +86,6 @@ Oyaji：老爹
 Marco：马尔科
 Fushichou：不死鸟
 Phoenix：不死鸟
-Portgas D. Ace=波特卡斯·D·艾斯
 Spade Pirates：黑桃海贼团
 Spade：黑桃
 Spadille：黑桃号
@@ -113,18 +131,18 @@ Kaido：凯多
 
 //BIG MOM海贼团
 Charlotte Linlin=夏洛特·玲玲
-Perospero：佩罗斯佩罗
-Katakuri：卡塔库栗
-Daifuku：大福
-Oven：欧文
-Cracker：克力架
-Amande：阿曼德
-Brulee：布蕾
-Smoothie：斯慕吉
-Chiffon：戚风
-Lola：罗拉
-Pudding：布琳
-Flampe：芙兰佩
+Charlotte Perospero=夏洛特·佩罗斯佩罗
+Charlotte Katakuri=夏洛特·卡塔库栗
+Charlotte Daifuku=夏洛特·大福
+Charlotte Oven=夏洛特·欧文
+Charlotte Cracker=夏洛特·克力架
+Charlotte Amande=夏洛特·阿曼德
+Charlotte Brulee=夏洛特·布蕾
+Charlotte Smoothie=夏洛特·斯慕吉
+Charlotte Chiffon=夏洛特·戚风
+Charlotte Lola=夏洛特·罗拉
+Charlotte Pudding=夏洛特·布琳
+Charlotte Flampe=夏洛特·芙兰佩
 
 //黑胡子海贼团
 Blackbeard Pirates：黑胡子海贼团
@@ -157,7 +175,6 @@ Crocus：克罗卡斯
 Revolutionary Army：革命军
 Revolutionary：革命军
 Revolutionaries：革命军
-Monkey D. Dragon=蒙奇·D·龙
 Emporio Ivankov=安普里奥·伊万科夫
 Sabo：萨博
 bo：博
@@ -180,7 +197,7 @@ StMarcus Mars=玛卡斯·玛兹圣
 Jaygarcia Saturn=杰伊戈路西亚·萨坦圣
 Figarland Garling=费加兰度·格林古圣
 God Knights：神之骑士
-Shamrock：夏姆洛克
+Figarland Shamrock=费加兰度·夏姆洛克
 Marine：海军
 Sengoku：战国
 Sengoku The Buddha：佛之战国
@@ -192,14 +209,14 @@ Kizaru：黄猿
 Kuzan：库赞
 Aokiji：青雉
 Issho：一笑
+Isshou：一笑
 Aramaki：荒牧
-Monkey D. Garp=蒙奇·D·卡普
 Tsuru：鹤
 Onigumo：鬼蜘蛛
 Momonga：鼯鼠
-Smoker：斯摩格
 Tashigi：达斯琪
 Coby：克比
+Koby：克比
 Helmeppo：贝鲁梅伯
 Cipher Pol：CP
 Rob Lucci=罗布·路奇
@@ -334,7 +351,6 @@ Woop：乌普
 Kaya：可雅
 Shakky：夏琪
 Perona：佩罗娜
-Nefertari D Cobra=奈菲鲁塔丽·D·寇布拉
 Nefertari D. Cobra=奈菲鲁塔丽·D·寇布拉
 Nefertari D. Vivi=奈菲鲁塔丽·D·薇薇
 Shirahoshi：白星
@@ -379,7 +395,7 @@ Shyarly：夏莉
 Xebec：吉贝克
 Buckingham Stussy=芭金戈姆·斯图西
 Du Feld=杜·费尔德
-Zeff：泽夫
+Zeff：哲夫
 
 //其他
 Pirate：海贼
@@ -440,6 +456,8 @@ pipe：水管
 Rocks Pirates：洛克斯海贼团
 mink：毛皮族
 clima tact：天候棒
+Aka Ashi no Zeff：红脚哲夫
+“Red-Leg Zeff”：红脚哲夫
 
 //地名
 East Blue：东海
@@ -472,22 +490,8 @@ Sphinx：斯芬克斯
 Lost Chamber：花之间
 Elbaph：艾尔巴夫
 Zou：佐乌
-Gray Terminal：灰色终点站
+Grey Terminal：灰色终点站
 Banaro：巴纳罗岛
-
-词条
-Crocodile：克洛克达尔
-Trafalgar D. Water Law=特拉法尔加·D·瓦铁尔·罗
-Carrot：加洛特
-Judge：伽治
-Killer：基拉
-King：烬
-Queen：奎因
-Rocks：洛克斯
-Speed：斯比多
-Sunny：桑尼号
-Merry：梅利号
-Dawn：黎明岛
 
 禁翻词条
 
