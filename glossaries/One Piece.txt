@@ -11,7 +11,7 @@ Straw Hat Pirates：草帽海贼团
 Strawhat Pirates：草帽海贼团
 Mugiwara：草帽
 Straw Hat：草帽
-Monkey D Luffy=蒙奇·D·路飞
+Monkey D. Luffy=蒙奇·D·路飞
 Mugiwara-ya：草帽当家的
 Straw Hat-ya：草帽当家的
 Lu：路
@@ -38,7 +38,7 @@ Jinbei：甚平
 //心脏海贼团
 Heart Pirates：心脏海贼团
 Polar Tang：极地潜水号
-Trafalgar D Law=特拉法尔加·D·罗
+Trafalgar D. Law=特拉法尔加·D·罗
 Traffy：特拉男
 Kikoku：鬼哭
 Shambles：交换
@@ -67,7 +67,6 @@ Oyaji：老爹
 Marco：马尔科
 Fushichou：不死鸟
 Phoenix：不死鸟
-Portgas D Ace=波特卡斯·D·艾斯
 Portgas D. Ace=波特卡斯·D·艾斯
 Spade Pirates：黑桃海贼团
 Spade：黑桃
@@ -100,7 +99,7 @@ Squard：斯库亚德
 //红发海贼团
 Red Force：雷德弗斯号
 Akagami no Shanks：红发香克斯
-Red-Haired Shanks：红发香克斯
+“Red-Haired Shanks”：红发香克斯
 Shanks：香克斯
 Benn Beckman=本·贝克曼
 Yasopp：耶稣布
@@ -130,7 +129,7 @@ Flampe：芙兰佩
 //黑胡子海贼团
 Blackbeard Pirates：黑胡子海贼团
 Kurohige：黑胡子
-Marshall D Teach=马歇尔·D·蒂奇
+Marshall D. Teach=马歇尔·D·蒂奇
 Jesus Burgess=吉扎斯·巴杰斯
 Shiryu：希留
 Shiliew：希留
@@ -146,10 +145,8 @@ Doc Q：毒医Q
 //罗杰海贼团
 Oro Jackson=奥罗·杰克逊号
 Roger Pirates：罗杰海贼团
-Gol D Roger=哥尔·D·罗杰
 Gol D. Roger=哥尔·D·罗杰
 Gold Roger：黄金罗杰
-Portgas D Rouge=波特卡斯·D·露玖
 Portgas D. Rouge=波特卡斯·D·露玖
 Silvers Rayleigh=西尔巴兹·雷利
 Dark King：冥王
@@ -160,7 +157,7 @@ Crocus：克罗卡斯
 Revolutionary Army：革命军
 Revolutionary：革命军
 Revolutionaries：革命军
-Monkey D Dragon=蒙奇·D·龙
+Monkey D. Dragon=蒙奇·D·龙
 Emporio Ivankov=安普里奥·伊万科夫
 Sabo：萨博
 bo：博
@@ -196,7 +193,7 @@ Kuzan：库赞
 Aokiji：青雉
 Issho：一笑
 Aramaki：荒牧
-Monkey D Garp=蒙奇·D·卡普
+Monkey D. Garp=蒙奇·D·卡普
 Tsuru：鹤
 Onigumo：鬼蜘蛛
 Momonga：鼯鼠
@@ -290,7 +287,7 @@ Black Maria：黑色玛利亚
 
 //蛋头岛
 Vegapunk：贝加庞克
-“Dr.Vegapunk”：贝加庞克博士
+Dr.Vegapunk：贝加庞克博士
 Doctor Vegapunk：贝加庞克博士
 Lilith：莉莉丝
 Shaka：释迦
@@ -338,7 +335,8 @@ Kaya：可雅
 Shakky：夏琪
 Perona：佩罗娜
 Nefertari D Cobra=奈菲鲁塔丽·D·寇布拉
-Vivi：薇薇
+Nefertari D. Cobra=奈菲鲁塔丽·D·寇布拉
+Nefertari D. Vivi=奈菲鲁塔丽·D·薇薇
 Shirahoshi：白星
 Fukaboshi：鲨星
 Ryuboshi：皇星
@@ -479,7 +477,7 @@ Banaro：巴纳罗岛
 
 词条
 Crocodile：克洛克达尔
-Trafalgar D Water Law=特拉法尔加·D·瓦铁尔·罗
+Trafalgar D. Water Law=特拉法尔加·D·瓦铁尔·罗
 Carrot：加洛特
 Judge：伽治
 Killer：基拉
