@@ -58,7 +58,7 @@ Eustass Kidd=尤斯塔斯·基德
 
 //白胡子海贼团
 Whitebeard Pirates：白胡子海贼团
-Moby Dick：莫比迪克号
+Moby Dick=莫比·迪克号
 Edward Newgate=爱德华·纽盖特
 Whitebeard：白胡子
 Shirohige：白胡子
@@ -305,10 +305,12 @@ Frontier Dome：边界穹顶
 //霸气
 Haoushoku Haki=霸王色 霸气
 “Conqueror's Haki”：霸王色霸气
+Conquerors：霸王色
+Conqueror：霸王色
 Kenbunshoku Haki=见闻色 霸气
-Observation Haki：见闻色霸气
+Observation：见闻色霸气
 Busoshoku Haki=武装色 霸气
-Armament Haki：武装色霸气
+Armament：武装色霸气
 
 //恶魔果实
 Devil Fruit：恶魔果实
@@ -383,8 +385,10 @@ Pirate：海贼
 Pirates：海贼
 Pirate King：海贼王
 Pirates King：海贼王
+the King of the Pirates：海贼王
 Yonko：四皇
 Four Emperors：四皇
+first mates：大副
 Commanders：队长
 Commander：队长
 navigator：航海士
@@ -393,6 +397,7 @@ Kuja Pirates：九蛇海贼团
 buster call：屠魔令
 Den Den Mushi：电话虫
 Den Den Mushis：电话虫
+“Den-Den”：电话虫
 baby den den mushi：婴儿电话虫
 Fishman：鱼人
 mermaid：人鱼
@@ -417,6 +422,7 @@ ship：船
 vivre card：生命卡
 Celestial Dragons：天龙人
 Celestial Dragon：天龙人
+Flame Emperor：炎帝
 Dai Enkai：大炎戒
 Entei：炎帝
 Hiken：火拳
@@ -429,6 +435,7 @@ Striker：前锋号
 Sky Walk：月步
 Empty Throne：虚空王座
 staff：水管
+pipe：水管
 Rocks Pirates：洛克斯海贼团
 mink：毛皮族
 clima tact：天候棒
@@ -443,9 +450,13 @@ Flevance：弗雷凡斯
 Baterilla：巴苔里拉
 Goa：哥亚
 Grand Lind：伟大航路
+Grandline：伟大航路
 Red Line：红土大陆
+Redline：红土大陆
 Reverse Mountain：颠倒山
+Paradise：乐园
 Laugh Tale：拉夫德鲁
+Laughtale：拉夫德鲁
 Raftel：拉夫德鲁
 Saboady：香波地群岛
 Water 7：七水之都
@@ -460,8 +471,11 @@ Sphinx：斯芬克斯
 Lost Chamber：花之间
 Elbaph：艾尔巴夫
 Zou：佐乌
+Gray Terminal：灰色终点站
+Banaro：巴纳罗岛
 
 词条
+Crocodile：克洛克达尔
 Water：瓦铁尔
 Carrot：加洛特
 Judge：伽治
@@ -472,6 +486,7 @@ Rocks：洛克斯
 Speed：斯比多
 Sunny：桑尼号
 Merry：梅利号
+Dawn：黎明岛
 
 禁翻词条
 
