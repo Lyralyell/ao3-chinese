@@ -1,6 +1,6 @@
 版本号：1.0.8
 维护者：Lyralyell
-更新时间：2026-10-04
+更新时间：2026-10-05
 
 词条
 //含常用词的名称，区分大小写
@@ -52,6 +52,7 @@ Robin-chan：罗宾酱
 Franky：弗兰奇
 Thousand Sunny：千里阳光号
 Brook：布鲁克
+Soul King：灵魂之王
 Jinbei：甚平
 
 //心脏海贼团
@@ -492,6 +493,7 @@ Elbaph：艾尔巴夫
 Zou：佐乌
 Grey Terminal：灰色终点站
 Banaro：巴纳罗岛
+God Valley：神之谷
 
 禁翻词条
 
