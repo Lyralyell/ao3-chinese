@@ -68,6 +68,7 @@ Marco：马尔科
 Fushichou：不死鸟
 Phoenix：不死鸟
 Portgas D Ace=波特卡斯·D·艾斯
+Portgas D. Ace=波特卡斯·D·艾斯
 Spade Pirates：黑桃海贼团
 Spade：黑桃
 Spadille：黑桃号
@@ -146,8 +147,10 @@ Doc Q：毒医Q
 Oro Jackson=奥罗·杰克逊号
 Roger Pirates：罗杰海贼团
 Gol D Roger=哥尔·D·罗杰
-Portgas D Rouge=波特卡斯·D·露玖
+Gol D. Roger=哥尔·D·罗杰
 Gold Roger：黄金罗杰
+Portgas D Rouge=波特卡斯·D·露玖
+Portgas D. Rouge=波特卡斯·D·露玖
 Silvers Rayleigh=西尔巴兹·雷利
 Dark King：冥王
 Scopper Gaban=司克帕·贾巴
@@ -476,7 +479,7 @@ Banaro：巴纳罗岛
 
 词条
 Crocodile：克洛克达尔
-Water：瓦铁尔
+Trafalgar D Water Law=特拉法尔加·D·瓦铁尔·罗
 Carrot：加洛特
 Judge：伽治
 Killer：基拉
