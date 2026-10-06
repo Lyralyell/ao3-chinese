@@ -39,6 +39,7 @@ Strawhat brat：草帽小子
 Straw Hat brat：草帽小子
 Roronoa Zoro=罗罗诺亚·索隆
 Marimo：绿藻头
+Mosshead：绿藻头
 Nami：娜美
 Nami-san：娜美桑
 Vinsmoke Sanji=文斯莫克·山治
@@ -48,8 +49,7 @@ Usopp=乌索普
 Going Merry：前进梅利号
 Tony Tony Chopper=托尼·托尼·乔巴
 raccoon：狸猫
-Nico
-Robin=妮可·罗宾
+Nico Robin=妮可·罗宾
 Robin-chan：罗宾酱
 Franky：弗兰奇
 Thousand Sunny：千里阳光号
@@ -62,6 +62,7 @@ Heart Pirates：心脏海贼团
 Polar Tang：极地潜水号
 Trafalgar D. Law=特拉法尔加·D·罗
 Traffy：特拉男
+Torao：特拉男
 Kikoku：鬼哭
 Shambles：交换
 Rosinante：罗西南迪
