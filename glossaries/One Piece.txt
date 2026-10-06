@@ -227,6 +227,7 @@ Rob Lucci=罗布·路奇
 Hattori：哈多利
 Kaku：卡库
 Kalifa：卡莉法
+Blueno：布鲁诺
 Spandam：斯潘达姆
 Isuka：伊斯卡
 Drake：德雷克
@@ -346,7 +347,7 @@ Ope Ope no Mi：手术果实
 Hobi Hobi no Mi：童趣果实
 
 //其他人名
-Dadan：达旦
+Curly Dadan=卡利·达旦
 Dogra：多古拉
 Magra：马古拉
 Ann：安
@@ -402,6 +403,15 @@ Du Feld=杜·费尔德
 Zeff：哲夫
 Aka Ashi no Zeff：红脚哲夫
 “Red-Leg Zeff”：红脚哲夫
+Laboon：拉布
+Monblanc Noland=蒙布兰·诺兰多
+Olvia：奥尔维娅
+“Bell-mere”：贝尔梅尔
+Nojiko：诺琪高
+Genzo：阿健
+Enel艾尼路
+Saul：萨乌罗
+Hiluluk：希鲁鲁克
 
 //其他
 Pirate：海贼
@@ -464,6 +474,8 @@ Rocks Pirates：洛克斯海贼团
 mink：毛皮族
 clima tact：天候棒
 Paramount War：顶上战争
+Pluton：冥王
+Baroque：巴洛克
 
 //地名
 East Blue：东海
@@ -473,7 +485,7 @@ North Blue：北海
 Alabasta：阿拉巴斯坦
 Flevance：弗雷凡斯
 Baterilla：巴苔里拉
-Goa：哥亚
+Goa Kingdom=哥亚 王国
 Grand Lind：伟大航路
 Grandline：伟大航路
 Red Line：红土大陆
@@ -485,11 +497,13 @@ Laughtale：拉夫德鲁
 Raftel：拉夫德鲁
 Saboady：香波地群岛
 Water 7：七水之都
+Water Seven：七水之都
 Enies Lobby：司法岛
 Jaya：加雅岛
 Impel down：因佩尔顿
 Marineford：马林梵多
 Sky Piea：空岛
+SkyPiea：空岛
 Amazon Lily：亚马逊百合
 Ohara：奥哈拉
 Sphinx：斯芬克斯
@@ -497,8 +511,13 @@ Lost Chamber：花之间
 Elbaph：艾尔巴夫
 Zou：佐乌
 Grey Terminal：灰色终点站
+Gray Terminal：灰色终点站
+Mt.Corvo：科尔波山
 Banaro：巴纳罗岛
 God Valley：神之谷
+Florian Triangle：魔鬼三角地带
+Totto Land：万国
+Twin Capes：双子峡
 
 禁翻词条
 
