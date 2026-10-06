@@ -1,6 +1,6 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：Lyralyell
-更新时间：2026-10-05
+更新时间：2026-10-06
 
 词条
 //含常用词的名称，区分大小写
@@ -31,8 +31,9 @@ Straw Hat Pirates：草帽海贼团
 Strawhat Pirates：草帽海贼团
 Mugiwara：草帽
 Straw Hat：草帽
-Mugiwara-ya：草帽当家的
-Straw Hat-ya：草帽当家的
+Strawhat：草帽
+Straw Hat Luffy：草帽路飞
+Strawhat Luffy：草帽路飞
 Lu：路
 Strawhat brat：草帽小子
 Straw Hat brat：草帽小子
@@ -47,7 +48,8 @@ Usopp=乌索普
 Going Merry：前进梅利号
 Tony Tony Chopper=托尼·托尼·乔巴
 raccoon：狸猫
-Nico Robin=妮可·罗宾
+Nico
+Robin=妮可·罗宾
 Robin-chan：罗宾酱
 Franky：弗兰奇
 Thousand Sunny：千里阳光号
@@ -87,6 +89,9 @@ Oyaji：老爹
 Marco：马尔科
 Fushichou：不死鸟
 Phoenix：不死鸟
+FireFist Ace：火拳艾斯
+Fire Fist Ace：火拳艾斯
+Hiken no Ace：火拳艾斯
 Spade Pirates：黑桃海贼团
 Spade：黑桃
 Spadille：黑桃号
@@ -94,8 +99,6 @@ Deuce：丢斯
 Masked Deuce：蒙面丢斯
 Banshee：班西
 Kotatsu：柯达兹
-FireFist：火拳
-Fire Fist：火拳
 Jozu：乔兹
 Thatch：萨奇
 Vista：比斯塔
@@ -397,6 +400,8 @@ Xebec：吉贝克
 Buckingham Stussy=芭金戈姆·斯图西
 Du Feld=杜·费尔德
 Zeff：哲夫
+Aka Ashi no Zeff：红脚哲夫
+“Red-Leg Zeff”：红脚哲夫
 
 //其他
 Pirate：海贼
@@ -452,13 +457,13 @@ Reverie：世界会议
 Striker：前锋号
 Sky Walk：月步
 Empty Throne：虚空王座
+chief of staff：参谋总长
 staff：水管
 pipe：水管
 Rocks Pirates：洛克斯海贼团
 mink：毛皮族
 clima tact：天候棒
-Aka Ashi no Zeff：红脚哲夫
-“Red-Leg Zeff”：红脚哲夫
+Paramount War：顶上战争
 
 //地名
 East Blue：东海
