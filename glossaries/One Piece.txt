@@ -22,6 +22,9 @@ Merry：梅利号
 Dawn：黎明岛
 Outlook：奥特卢克
 Smoker：斯摩格
+Marshall D. Teach=马歇尔·D·蒂奇
+Sanjuan Wolf=圣胡安·恶狼
+Caesar Clown=凯撒·库朗
 
 通用词条
 
@@ -152,7 +155,6 @@ Charlotte Flampe=夏洛特·芙兰佩
 //黑胡子海贼团
 Blackbeard Pirates：黑胡子海贼团
 Kurohige：黑胡子
-Marshall D. Teach=马歇尔·D·蒂奇
 Jesus Burgess=吉扎斯·巴杰斯
 Shiryu：希留
 Shiliew：希留
@@ -161,7 +163,6 @@ Abaro Pisaro=阿瓦罗·匹萨罗
 Rafitto：拉斐特
 Laffitte：拉斐特
 Catarina Devon=卡特琳·蝶美
-Sanjuan Wolf=圣胡安·恶狼
 Vasco：巴斯克
 Doc Q：毒医Q
 
@@ -250,7 +251,6 @@ Gecko Moria=月光·莫利亚
 
 //德雷斯罗萨
 Punk Hazard：庞克哈萨德
-Caesar Clown=凯撒·库朗
 Dressrosa：德雷斯罗萨
 Mingo：明哥
 Young Master：少主
@@ -488,7 +488,7 @@ Alabasta：阿拉巴斯坦
 Flevance：弗雷凡斯
 Baterilla：巴苔里拉
 Goa Kingdom=哥亚 王国
-Grand Lind：伟大航路
+Grand Line：伟大航路
 Grandline：伟大航路
 Red Line：红土大陆
 Redline：红土大陆
