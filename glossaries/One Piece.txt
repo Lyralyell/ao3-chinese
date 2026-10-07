@@ -1,11 +1,12 @@
-版本号：1.0.9
+版本号：1.1.0
 维护者：Lyralyell
-更新时间：2026-10-07
+更新时间：2026-10-08
 
 词条
 //含常用词的名称，区分大小写
 Monkey D. Luffy=蒙奇·D·路飞
 Portgas D. Ace=波特卡斯·D·艾斯
+Gol D. Ace=哥尔·D·艾斯
 Trafalgar D. Water Law=特拉法尔加·D·瓦铁尔·罗
 Monkey D. Garp=蒙奇·D·卡普
 Monkey D. Dragon=蒙奇·D·龙
@@ -15,7 +16,7 @@ Judge：伽治
 Killer：基拉
 King：烬
 Queen：奎因
-Rocks：洛克斯
+Rocks D. Xebec=洛克斯·D·吉贝克
 Speed：斯比多
 Sunny：桑尼号
 Merry：梅利号
@@ -23,6 +24,7 @@ Dawn：黎明岛
 Outlook：奥特卢克
 Smoker：斯摩格
 Marshall D. Teach=马歇尔·D·蒂奇
+TEACH：蒂奇
 Sanjuan Wolf=圣胡安·恶狼
 Caesar Clown=凯撒·库朗
 
@@ -182,6 +184,7 @@ Revolutionary Army：革命军
 Revolutionary：革命军
 Revolutionaries：革命军
 Emporio Ivankov=安普里奥·伊万科夫
+Iva：伊娃
 Sabo：萨博
 bo：博
 Koala：克尔拉
@@ -433,6 +436,7 @@ buster call：屠魔令
 Den Den Mushi：电话虫
 Den Den Mushis：电话虫
 “Den-Den”：电话虫
+Den Den：电话虫
 baby den den mushi：婴儿电话虫
 Fishman：鱼人
 mermaid：人鱼
@@ -477,6 +481,7 @@ clima tact：天候棒
 Paramount War：顶上战争
 Pluton：冥王
 Baroque：巴洛克
+Okama：人妖
 
 //地名
 East Blue：东海
