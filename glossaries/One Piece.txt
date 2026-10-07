@@ -70,7 +70,6 @@ Traffy：特拉男
 Torao：特拉男
 Kikoku：鬼哭
 Shambles：交换
-Rosinante：罗西南迪
 Corazon：柯拉松
 Cora-san：柯拉桑
 Bepo：贝波
@@ -120,6 +119,7 @@ Jiru：基尔
 Fossa：佛萨
 Izou：以藏
 Izo：以藏
+Stephan：斯特凡
 Whitey Bay：怀迪贝
 Little Oars：小奥兹
 Squard：斯库亚德
@@ -127,6 +127,7 @@ Squard：斯库亚德
 //红发海贼团
 Red Force：雷德弗斯
 Akagami no Shanks：红发香克斯
+Akagami Shanks=红发 香克斯
 “Red-Haired Shanks”：红发香克斯
 Shanks：香克斯
 Benn Beckman=本·贝克曼
@@ -209,6 +210,7 @@ God Knights：神之骑士
 Figarland Shamrock=费加兰度·夏姆洛克
 Marine：海军
 Sengoku：战国
+Senny：小战
 Sengoku The Buddha：佛之战国
 Admiral：海军大将
 Sakazuki：萨卡斯基
@@ -220,9 +222,13 @@ Aokiji：青雉
 Issho：一笑
 Isshou：一笑
 Aramaki：荒牧
+“Vice-Admiral”：海军中将
 Tsuru：鹤
 Onigumo：鬼蜘蛛
 Momonga：鼯鼠
+Donquixote Rosinante=唐吉诃德·罗西南迪
+Donquixote Rocinante=唐吉诃德·罗西南迪
+Roci：罗西
 Tashigi：达斯琪
 Coby：克比
 Koby：克比
@@ -331,8 +337,7 @@ Frontier Dome：边界穹顶
 //霸气
 Haoushoku Haki=霸王色 霸气
 “Conqueror's Haki”：霸王色霸气
-Conquerors：霸王色
-Conqueror：霸王色
+Conqueror：霸王色霸气
 Kenbunshoku Haki=见闻色 霸气
 Observation：见闻色霸气
 Busoshoku Haki=武装色 霸气
@@ -343,6 +348,7 @@ Devil Fruit：恶魔果实
 Devil Fruits：恶魔果实
 Logia：自然系
 Paramecia：超人系
+Zoan：动物系
 Gomo Gomo no Mi：橡胶果实
 Mera Mera no Mi：烧烧果实
 Hana Hna no Mi：花花果实
@@ -393,7 +399,7 @@ Reiju：蕾玖
 Ichiji：伊治
 Niji：尼治
 Yonji：勇治
-Bege：贝基
+Capone Bege=卡彭·贝基
 Mohiji：摩奇
 Richie：利基
 Galdino：贾尔迪诺
@@ -401,7 +407,7 @@ Alvida：亚尔丽塔
 Jewellery Bonney=乔艾莉·波妮
 Ginny：金妮
 Shyarly：夏莉
-Xebec：吉贝克
+Apoo：阿普
 Buckingham Stussy=芭金戈姆·斯图西
 Du Feld=杜·费尔德
 Zeff：哲夫
@@ -414,7 +420,7 @@ Olvia：奥尔维娅
 Nojiko：诺琪高
 Genzo：阿健
 Enel艾尼路
-Saul：萨乌罗
+Jaguar D. Saul=哈古瓦尔·D·萨乌罗
 Hiluluk：希鲁鲁克
 Stelly：斯特利
 
@@ -430,7 +436,6 @@ first mates：大副
 Commanders：队长们
 Commander：队长
 navigator：航海士
-New World：新世界
 Kuja Pirates：九蛇海贼团
 buster call：屠魔令
 Den Den Mushi：电话虫
@@ -482,6 +487,7 @@ Paramount War：顶上战争
 Pluton：冥王
 Baroque：巴洛克
 Okama：人妖
+Baratie：巴拉蒂
 
 //地名
 East Blue：东海
@@ -498,6 +504,7 @@ Red Line：红土大陆
 Redline：红土大陆
 Reverse Mountain：颠倒山
 Paradise：乐园
+New World：新世界
 Laugh Tale：拉夫德鲁
 Laughtale：拉夫德鲁
 Raftel：拉夫德鲁
