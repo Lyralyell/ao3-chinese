@@ -470,7 +470,6 @@ Striker：前锋号
 Sky Walk：月步
 Empty Throne：虚空王座
 chief of staff：参谋总长
-staff：水管
 pipe：水管
 Rocks Pirates：洛克斯海贼团
 mink：毛皮族
