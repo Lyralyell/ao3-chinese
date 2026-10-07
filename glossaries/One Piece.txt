@@ -424,7 +424,7 @@ the King of the Pirates：海贼王
 Yonko：四皇
 Four Emperors：四皇
 first mates：大副
-Commanders：队长
+Commanders：队长们
 Commander：队长
 navigator：航海士
 New World：新世界
@@ -437,7 +437,6 @@ baby den den mushi：婴儿电话虫
 Fishman：鱼人
 mermaid：人鱼
 Hibiscus：扶桑花
-Belly：贝利
 Seastone：海楼石
 sea stone：海楼石
 Eternal Pose：永恒指针
@@ -469,7 +468,8 @@ Reverie：世界会议
 Striker：前锋号
 Sky Walk：月步
 Empty Throne：虚空王座
-chief of staff：参谋总长
+Chief of Staff：参谋总长
+“Chief-of-Staff”：参谋总长
 pipe：水管
 Rocks Pirates：洛克斯海贼团
 mink：毛皮族
@@ -531,6 +531,8 @@ BIG MOM
 big mom
 Big Mom
 yoi
+Yoi
+YOI
 Baby-5
 Room
 Joker
