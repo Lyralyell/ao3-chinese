@@ -1,6 +1,8 @@
-版本号：1.1.0
+版本号：1.1.1
 维护者：Lyralyell
-更新时间：2026-10-08
+更新时间：2026-10-09
+
+//此术语表适用于原著向，若其他au中出现不在此表中的高频词，可在更多功能中自行编辑本地术语表
 
 词条
 //含常用词的名称，区分大小写
@@ -223,6 +225,7 @@ Issho：一笑
 Isshou：一笑
 Aramaki：荒牧
 “Vice-Admiral”：海军中将
+Vice Admiral：海军中将
 Tsuru：鹤
 Onigumo：鬼蜘蛛
 Momonga：鼯鼠
@@ -525,6 +528,7 @@ Elbaph：艾尔巴夫
 Zou：佐乌
 Grey Terminal：灰色终点站
 Gray Terminal：灰色终点站
+Terminal：终点站
 Mt.Corvo：科尔波山
 Banaro：巴纳罗岛
 God Valley：神之谷
