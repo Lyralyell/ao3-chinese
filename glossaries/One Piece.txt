@@ -1,6 +1,6 @@
-版本号：1.1.1
+版本号：1.1.2
 维护者：Lyralyell
-更新时间：2026-10-09
+更新时间：2026-10-10
 
 //此术语表适用于原著向，若其他au中出现不在此表中的高频词，可在更多功能中自行编辑本地术语表
 
@@ -10,6 +10,8 @@ Monkey D. Luffy=蒙奇·D·路飞
 Portgas D. Ace=波特卡斯·D·艾斯
 Gol D. Ace=哥尔·D·艾斯
 Trafalgar D. Water Law=特拉法尔加·D·瓦铁尔·罗
+Trafalgar D. Law=特拉法尔加·D·罗
+Trafalgar Law=特拉法尔加·罗
 Monkey D. Garp=蒙奇·D·卡普
 Monkey D. Dragon=蒙奇·D·龙
 Crocodile：克洛克达尔
@@ -67,7 +69,6 @@ Jinbei：甚平
 //心脏海贼团
 Heart Pirates：心脏海贼团
 Polar Tang：极地潜水号
-Trafalgar D. Law=特拉法尔加·D·罗
 Traffy：特拉男
 Torao：特拉男
 Kikoku：鬼哭
@@ -422,17 +423,17 @@ Olvia：奥尔维娅
 “Bell-mere”：贝尔梅尔
 Nojiko：诺琪高
 Genzo：阿健
-Enel艾尼路
+Kuina：库伊娜
+Enel：艾尼路
 Jaguar D. Saul=哈古瓦尔·D·萨乌罗
 Hiluluk：希鲁鲁克
 Stelly：斯特利
 
 //其他
 Pirate：海贼
-Pirates：海贼
 Pirate King：海贼王
 Pirates King：海贼王
-the King of the Pirates：海贼王
+King of the Pirates：海贼王
 Yonko：四皇
 Four Emperors：四皇
 first mates：大副
@@ -529,6 +530,7 @@ Zou：佐乌
 Grey Terminal：灰色终点站
 Gray Terminal：灰色终点站
 Terminal：终点站
+Fushia：风车
 Mt.Corvo：科尔波山
 Banaro：巴纳罗岛
 God Valley：神之谷
