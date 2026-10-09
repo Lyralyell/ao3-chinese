@@ -31,6 +31,8 @@ Marshall D. Teach=马歇尔·D·蒂奇
 TEACH：蒂奇
 Sanjuan Wolf=圣胡安·恶狼
 Caesar Clown=凯撒·库朗
+Charlotte Oven=夏洛特·欧文
+Charlotte Cracker=夏洛特·克力架
 
 通用词条
 
@@ -148,8 +150,6 @@ Charlotte Linlin=夏洛特·玲玲
 Charlotte Perospero=夏洛特·佩罗斯佩罗
 Charlotte Katakuri=夏洛特·卡塔库栗
 Charlotte Daifuku=夏洛特·大福
-Charlotte Oven=夏洛特·欧文
-Charlotte Cracker=夏洛特·克力架
 Charlotte Amande=夏洛特·阿曼德
 Charlotte Brulee=夏洛特·布蕾
 Charlotte Smoothie=夏洛特·斯慕吉
@@ -255,7 +255,6 @@ Warlords：七武海
 Sir Crocodile：沙·克洛克达尔
 Buggy：巴基
 Donquixote Doflamingo=唐吉诃德·多弗朗明哥
-Doffy：多弗
 Boa Hancock=波雅·汉库克
 Dracule Mihawk=乔拉可尔·米霍克
 Bartholomew Kuma=巴索罗米·熊
@@ -265,6 +264,7 @@ Gecko Moria=月光·莫利亚
 //德雷斯罗萨
 Punk Hazard：庞克哈萨德
 Dressrosa：德雷斯罗萨
+Doffy：多弗
 Mingo：明哥
 Young Master：少主
 Viola：维奥莱特
@@ -341,11 +341,11 @@ Frontier Dome：边界穹顶
 //霸气
 Haoushoku Haki=霸王色 霸气
 “Conqueror's Haki”：霸王色霸气
-Conqueror：霸王色霸气
+Conqueror：霸王色
 Kenbunshoku Haki=见闻色 霸气
-Observation：见闻色霸气
+Observation：见闻色
 Busoshoku Haki=武装色 霸气
-Armament：武装色霸气
+Armament：武装色
 
 //恶魔果实
 Devil Fruit：恶魔果实
@@ -537,12 +537,12 @@ God Valley：神之谷
 Florian Triangle：魔鬼三角地带
 Totto Land：万国
 Twin Capes：双子峡
+Baltigo：巴尔迪哥
 
 禁翻词条
 
 ONE PIECE
 One Piece
-one piece
 ASL
 asl
 BIG MOM
