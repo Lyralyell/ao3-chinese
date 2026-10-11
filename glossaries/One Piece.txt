@@ -1,17 +1,20 @@
-版本号：1.1.2
+版本号：1.1.3
 维护者：Lyralyell
-更新时间：2026-10-10
+更新时间：2026-10-12
 
 //此术语表适用于原著向，若其他au中出现不在此表中的高频词，可在更多功能中自行编辑本地术语表
 
 词条
 //含常用词的名称，区分大小写
 Monkey D. Luffy=蒙奇·D·路飞
+LUFFY：路飞
 Portgas D. Ace=波特卡斯·D·艾斯
 Gol D. Ace=哥尔·D·艾斯
+ACE：艾斯
 Trafalgar D. Water Law=特拉法尔加·D·瓦铁尔·罗
 Trafalgar D. Law=特拉法尔加·D·罗
 Trafalgar Law=特拉法尔加·罗
+LAW：罗
 Monkey D. Garp=蒙奇·D·卡普
 Monkey D. Dragon=蒙奇·D·龙
 Crocodile：克洛克达尔
@@ -30,7 +33,22 @@ Smoker：斯摩格
 Marshall D. Teach=马歇尔·D·蒂奇
 TEACH：蒂奇
 Sanjuan Wolf=圣胡安·恶狼
-Caesar Clown=凯撒·库朗
+Caesar Clown：凯撒·库朗
+Caesar：凯撒
+Lucky Roux=拉基·鲁
+
+//BIG MOM海贼团
+Charlotte Linlin=夏洛特·玲玲
+Charlotte Perospero=夏洛特·佩罗斯佩罗
+Charlotte Katakuri=夏洛特·卡塔库栗
+Charlotte Daifuku=夏洛特·大福
+Charlotte Amande=夏洛特·阿曼德
+Charlotte Brulee=夏洛特·布蕾
+Charlotte Smoothie=夏洛特·斯慕吉
+Charlotte Chiffon=夏洛特·戚风
+Charlotte Lola=夏洛特·罗拉
+Charlotte Pudding=夏洛特·布琳
+Charlotte Flampe=夏洛特·芙兰佩
 Charlotte Oven=夏洛特·欧文
 Charlotte Cracker=夏洛特·克力架
 
@@ -137,26 +155,12 @@ Akagami Shanks=红发 香克斯
 Shanks：香克斯
 Benn Beckman=本·贝克曼
 Yasopp：耶稣布
-Lucky Roux：拉基路
 Hongo：本乡
 Rockstar：洛克斯达
 
 //百兽海贼团
 Beast Pirates：百兽海贼团
 Kaido：凯多
-
-//BIG MOM海贼团
-Charlotte Linlin=夏洛特·玲玲
-Charlotte Perospero=夏洛特·佩罗斯佩罗
-Charlotte Katakuri=夏洛特·卡塔库栗
-Charlotte Daifuku=夏洛特·大福
-Charlotte Amande=夏洛特·阿曼德
-Charlotte Brulee=夏洛特·布蕾
-Charlotte Smoothie=夏洛特·斯慕吉
-Charlotte Chiffon=夏洛特·戚风
-Charlotte Lola=夏洛特·罗拉
-Charlotte Pudding=夏洛特·布琳
-Charlotte Flampe=夏洛特·芙兰佩
 
 //黑胡子海贼团
 Blackbeard Pirates：黑胡子海贼团
@@ -366,7 +370,7 @@ Dogra：多古拉
 Magra：马古拉
 Ann：安
 Makino：玛琪诺
-Woop：乌普
+Woop Slap=乌普·史拉布
 Kaya：可雅
 Shakky：夏琪
 Perona：佩罗娜
