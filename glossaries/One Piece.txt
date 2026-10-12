@@ -1,8 +1,8 @@
-版本号：1.1.3
+版本号：1.1.4
 维护者：Lyralyell
-更新时间：2026-10-12
+更新时间：2026-10-13
 
-//此术语表适用于原著向，若其他au中出现不在此表中的高频词，可在更多功能中自行编辑本地术语表
+//此术语表适用于原著向，若其他au中出现不在此表中的高频词，请自行编辑本地术语表
 
 词条
 //含常用词的名称，区分大小写
@@ -393,7 +393,7 @@ Dr. Kureha：库蕾哈医生
 Doctor Kureha：库蕾哈医生
 Dalton：多尔顿
 Bluejam：布鲁杰姆
-Pearlgamy：伯尔杰米
+Porchemy：波尔杰米
 Shiki：史基
 Paulie：巴利
 Iceburg：冰山
@@ -424,6 +424,7 @@ Aka Ashi no Zeff：红脚哲夫
 Laboon：拉布
 Monblanc Noland=蒙布兰·诺兰多
 Olvia：奥尔维娅
+Bacchina：班奇娜
 “Bell-mere”：贝尔梅尔
 Nojiko：诺琪高
 Genzo：阿健
