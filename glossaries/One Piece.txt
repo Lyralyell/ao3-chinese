@@ -1,6 +1,6 @@
-版本号：1.1.4
+版本号：1.1.5
 维护者：Lyralyell
-更新时间：2026-10-13
+更新时间：2026-10-20
 
 //此术语表适用于原著向，若其他au中出现不在此表中的高频词，请自行编辑本地术语表
 
@@ -11,6 +11,7 @@ LUFFY：路飞
 Portgas D. Ace=波特卡斯·D·艾斯
 Gol D. Ace=哥尔·D·艾斯
 ACE：艾斯
+SABO：萨博
 Trafalgar D. Water Law=特拉法尔加·D·瓦铁尔·罗
 Trafalgar D. Law=特拉法尔加·D·罗
 Trafalgar Law=特拉法尔加·罗
@@ -108,7 +109,8 @@ Eustass Kidd=尤斯塔斯·基德
 
 //白胡子海贼团
 Whitebeard Pirates：白胡子海贼团
-Moby Dick=莫比·迪克
+Moby Dick：莫比迪克
+Moby：莫比
 Edward Newgate=爱德华·纽盖特
 Whitebeard：白胡子
 Shirohige：白胡子
