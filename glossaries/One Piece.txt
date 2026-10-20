@@ -1,6 +1,6 @@
-版本号：1.1.5
+版本号：1.1.6
 维护者：Lyralyell
-更新时间：2026-10-20
+更新时间：2026-10-21
 
 //此术语表适用于原著向，若其他au中出现不在此表中的高频词，请自行编辑本地术语表
 
@@ -37,6 +37,7 @@ Sanjuan Wolf=圣胡安·恶狼
 Caesar Clown：凯撒·库朗
 Caesar：凯撒
 Lucky Roux=拉基·鲁
+Woop Slap=乌普·史拉布
 
 //BIG MOM海贼团
 Charlotte Linlin=夏洛特·玲玲
@@ -71,6 +72,7 @@ Roronoa Zoro=罗罗诺亚·索隆
 Marimo：绿藻头
 Mosshead：绿藻头
 Nami：娜美
+Cat Burglar：小贼猫
 Nami-san：娜美桑
 Vinsmoke Sanji=文斯莫克·山治
 Black Leg：黑足
@@ -80,6 +82,7 @@ Going Merry：前进梅利号
 Tony Tony Chopper=托尼·托尼·乔巴
 raccoon：狸猫
 Nico Robin=妮可·罗宾
+Devil Child：恶魔之子
 Robin-chan：罗宾酱
 Franky：弗兰奇
 Thousand Sunny：千里阳光号
@@ -155,6 +158,8 @@ Akagami no Shanks：红发香克斯
 Akagami Shanks=红发 香克斯
 “Red-Haired Shanks”：红发香克斯
 Shanks：香克斯
+Red Hair：红发
+Gryphon：格雷芬
 Benn Beckman=本·贝克曼
 Yasopp：耶稣布
 Hongo：本乡
@@ -163,6 +168,7 @@ Rockstar：洛克斯达
 //百兽海贼团
 Beast Pirates：百兽海贼团
 Kaido：凯多
+Kaidou：凯多
 
 //黑胡子海贼团
 Blackbeard Pirates：黑胡子海贼团
@@ -188,6 +194,7 @@ Silvers Rayleigh=西尔巴兹·雷利
 Dark King：冥王
 Scopper Gaban=司克帕·贾巴
 Crocus：克罗卡斯
+Sunbell：桑贝尔
 
 //革命军
 Revolutionary Army：革命军
@@ -372,7 +379,6 @@ Dogra：多古拉
 Magra：马古拉
 Ann：安
 Makino：玛琪诺
-Woop Slap=乌普·史拉布
 Kaya：可雅
 Shakky：夏琪
 Perona：佩罗娜
